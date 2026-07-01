@@ -1,0 +1,29 @@
+{
+  "name": "cores-e-fragrancias-react-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja Cores & Fragrancias by Berenice em Node, React e SQLite.",
+  "scripts": {
+    "dev": "node server/index.js",
+    "client": "vite --host 0.0.0.0",
+    "server": "node server/index.js",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "import:legacy": "node server/scripts/importLegacy.js",
+    "extract:pdf": "node server/scripts/extractPdfProducts.js",
+    "sync:db": "node server/scripts/syncDatabaseToGithub.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "lucide-react": "^1.23.0",
+    "multer": "^2.2.0",
+    "pdf-parse": "^2.4.5",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "vite": "^8.1.2"
+  }
+}

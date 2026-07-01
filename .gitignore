@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.qodo/
+
+*.log
+npm-debug.log*
+
+.env
+.env.local
+
+server/data/*.db-wal
+server/data/*.db-shm
+server/data/test-*.db
+server/data/import-*.db

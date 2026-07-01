@@ -1,0 +1,2432 @@
+Relatório Completo de Produtos
+Listagem por tipo com características
+Tipo: Anti-idade
+ID: 206 | Nome: Renew Platinum Noite Creme Anti-Idade FPS 25 | Marca: Avon | Estilo: Corpo e Ba
+nho
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Nao | Qtd vendida: 0
+Tipo: Antissinais
+ID: 469 | Nome: Creme Antissinais Restauração e Cuidado 70+ Dia Chronos Derma 40 g | Marca: Nat
+ura | Estilo: Corpo e Banho
+Preco: R$ 105.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Armazenamentos
+ID: 160 | Nome: MARMITA INNOVAWARE LARANJA AVON | Marca: Avon | Estilo: Perfumaria
+Preco: R$ 19.99 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Sim | Qtd vendida: 1
+ID: 177 | Nome: Porta Frios Candy | Marca: Avon | Estilo: Acessórios de Casa
+Preco: R$ 24.99 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Sim | Qtd vendida: 1
+Tipo: Barba
+ID: 639 | Nome: 300Km H Turbo Care Gel para Barbear 80ml | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 13.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 74 | Nome: Creme de barbear Homem | Marca: Natura | Estilo: Masculinos
+Preco: R$ 35.0 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 137 | Nome: Gel 2 em 1 barbear e pos barba Kaik | Marca: Natura | Estilo: Masculinos
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 138 | Nome: Gel 2 em 1 barbear e pos barba Kaik Extremo | Marca: Natura | Estilo: Masculino
+s
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 185 | Nome: Pós barba homem sagaz | Marca: Natura | Estilo: Masculinos
+Preco: R$ 18.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 269 | Nome: Óleo de barba 30ml | Marca: Natura | Estilo: Masculinos
+Preco: R$ 79.9 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 73 | Nome: Creme Pré E Pós-Barba Clash 150g | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 62.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 789 | Nome: Creme Pré E Pós-Barba Clash 150g | Marca: O Boticário | Estilo: Masculinos
+Preco: R$ 62.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Boca
+ID: 881 | Nome: Avon Color Trend Brilho Rollette Glitter para Lábios Morango Vibes | Marca: Avo
+n | Estilo: Make
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 1 of 56 --
+
+ID: 10 | Nome: Avon Ultra Color Batom Cremoso Marrom Glam | Marca: Avon | Estilo: Make
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 11 | Nome: Avon Ultra Color Batom Cremoso Marrom Puro | Marca: Avon | Estilo: Make
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 483 | Nome: Avon Ultra Color Batom Matte FPS 30 Roxo Orquídea | Marca: Avon | Estilo: Make
+Preco: R$ 31.99 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 574 | Nome: Avon Ultra Color Batom Matte FPS 30 Roxo Orquídea | Marca: Avon | Estilo: Make
+Preco: R$ 29.99 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 882 | Nome: Batom Liquido Matte Glitter Effect Avon Power Stay 7ml Nude Iluminado | Marca:
+Avon | Estilo: Make
+Preco: R$ 49.99 | Estoque: 2 | Validade: 2029-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 25 | Nome: Batom Ultra - Marrom Cobre | Marca: Avon | Estilo: Make
+Preco: R$ 37.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 26 | Nome: Batom UltraCremoso Nude Capuccino | Marca: Avon | Estilo: Make
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 611 | Nome: Batom Ultramatte Orquídea | Marca: Avon | Estilo: Make
+Preco: R$ 37.99 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 529 | Nome: Batom líquido Vermelhaço power stay | Marca: Avon | Estilo: Make
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 36 | Nome: Brilho Labial Rollette Glitter Morango Vibes | Marca: Avon | Estilo: Make
+Preco: R$ 17.99 | Estoque: 0 | Validade: 2025-10-25 | Vendido: Sim | Qtd vendida: 2
+ID: 37 | Nome: Brilho Labial Rollette Gloss Drink de Amora | Marca: Avon | Estilo: Make
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 399 | Nome: Color Trend Hidratante Labial Color Trend FPS 15 Manteiga de Cacau | Marca: Avo
+n | Estilo: Make
+Preco: R$ 12.99 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 143 | Nome: Hidratante Labial Color Trend FPS 15 Amora | Marca: Avon | Estilo: Skincare
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 144 | Nome: Hidratante Labial Color Trend FPS 15 morango | Marca: Avon | Estilo: Skincare
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 609 | Nome: Kiss Hidra Batom BomBom | Marca: Avon | Estilo: Make
+Preco: R$ 21.99 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 324 | Nome: Power Stay Batom 16h Uva Rosada | Marca: Avon | Estilo: Make
+Preco: R$ 49.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 612 | Nome: Power Stay Batom Liquido Matte 16h Vermelhaço | Marca: Avon | Estilo: Make
+Preco: R$ 55.98 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 413 | Nome: Power Stay Batom Líquido Matte 16h Nude Blush | Marca: Avon | Estilo: Make
+Preco: R$ 49.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 531 | Nome: Power Stay Batom Líquido Matte 16h Nude Blush | Marca: Avon | Estilo: Make
+Preco: R$ 49.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 414 | Nome: Power Stay Batom Líquido Matte 16h Vermelhaço | Marca: Avon | Estilo: Make
+
+-- 2 of 56 --
+
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 257 | Nome: Ultra Color Batom Cremoso Nude Chic | Marca: Avon | Estilo: Make
+Preco: R$ 29.99 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 258 | Nome: Ultra Color Batom Matte Nude Terracota Matte | Marca: Avon | Estilo: Make
+Preco: R$ 37.99 | Estoque: 0 | Validade: 2027-10-25 | Vendido: Nao | Qtd vendida: 0
+ID: 781 | Nome: Batom Cremoso Vermelho Nude Nobre Glam Metals 3,6g | Marca: Eudora | Estilo: Ma
+ke
+Preco: R$ 54.99 | Estoque: 0 | Validade: 2029-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 4 | Nome: Batom Líquido Malva Absoluto Eudora Make Forever Matte Tint 4ml | Marca: Eudora |
+Estilo: Make
+Preco: R$ 52.99 | Estoque: 0 | Validade: 2029-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 21 | Nome: Batom Líquido Matte Supreme Bordô Aveludado 4,0ml | Marca: Eudora | Estilo: Make
+Preco: R$ 55.99 | Estoque: 0 | Validade: 2029-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 22 | Nome: Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g | Marca: Eudora | Estilo: Make
+Preco: R$ 35.99 | Estoque: 1 | Validade: 2030-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 625 | Nome: Case Para Batom Customizável Dourado Sofisticado Glam Amulips | Marca: Eudora |
+Estilo: Make
+Preco: R$ 22.99 | Estoque: 1 | Validade: 2027-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 537 | Nome: Refil Batom Matte Marrom Determinado Glam Amulips 3,4g | Marca: Eudora | Estilo
+: Make
+Preco: R$ 44.99 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 585 | Nome: Soul Kiss Me Batom Hidratante Castanho Passarela | Marca: Eudora | Estilo: Make
+Preco: R$ 37.99 | Estoque: 1 | Validade: 2030-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 9 | Nome: Aviva Batom Líquido Marrom Irresistível, 4 ml | Marca: Jequiti | Estilo: Make
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 680 | Nome: Batom Aviva Matteflix Vermelho Irresistível | Marca: Jequiti | Estilo: Make
+Preco: R$ 24.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 758 | Nome: Batom Ellas Matte Marsala Arraso | Marca: Jequiti | Estilo: Make
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 877 | Nome: Batom Hidrat Aviva Nude Sofisticado, 3,5 g | Marca: Jequiti | Estilo: Make
+Preco: R$ 45.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 17 | Nome: Batom Hidratante Ellas - Pink Kiss | Marca: Jequiti | Estilo: Make
+Preco: R$ 12.0 | Estoque: 0 | Validade: 2025-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 18 | Nome: Batom Hidratante Ellas Jequiti | Marca: Jequiti | Estilo: Make
+Preco: R$ 12.0 | Estoque: 2 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 19 | Nome: Batom Hidratante Jequiti Ellas Cafe glam, 3,5g | Marca: Jequiti | Estilo: Make
+Preco: R$ 21.9 | Estoque: 0 | Validade: 2027-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 20 | Nome: Batom Hidratante Jequiti Ellas Vinho Trend, 3,5g | Marca: Jequiti | Estilo: Make
+Preco: R$ 21.9 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 878 | Nome: Batom Mattefix Aviva Malva Poder, 3,5 g | Marca: Jequiti | Estilo: Make
+Preco: R$ 45.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 3 of 56 --
+
+ID: 876 | Nome: Batom Mattefix Aviva Terracota Glamour 3,5 g | Marca: Jequiti | Estilo: Make
+Preco: R$ 45.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 23 | Nome: Batom Mattefix Jequiti Aviva Vermelho, 3g | Marca: Jequiti | Estilo: Make
+Preco: R$ 21.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 695 | Nome: Batom hidratante Vermelho Misterioso | Marca: Jequiti | Estilo: Make
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 696 | Nome: Batom hidratante Vinho Marcante | Marca: Jequiti | Estilo: Make
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 443 | Nome: Gloss Labial Rollon Ellas Tutti Frutti 3,5Ml | Marca: Jequiti | Estilo: Make
+Preco: R$ 21.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 277 | Nome: LipBalm Candy Land Pipoca Doce 4g | Marca: Jequiti | Estilo: Make
+Preco: R$ 15.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 444 | Nome: Lipbalm Batom Ellas Candy Melancia, 4G | Marca: Jequiti | Estilo: Make
+Preco: R$ 19.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 445 | Nome: Lipbalm Batom Ellas Candy Melancia, 4G | Marca: Jequiti | Estilo: Make
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 757 | Nome: Lipbalm Batom Ellas Candy Melancia, 4G | Marca: Jequiti | Estilo: Make
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 446 | Nome: Lipbalm Batom Ellas Candy Morango, 4G | Marca: Jequiti | Estilo: Make
+Preco: R$ 19.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 307 | Nome: Batom Liquido com manteiga de karite Taupe That | Marca: Mary Kay | Estilo: Mak
+e
+Preco: R$ 48.9 | Estoque: 1 | Validade: 2027-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 770 | Nome: Batom Matte Bellisimo Nude | Marca: Mary Kay | Estilo: Make
+Preco: R$ 41.0 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 486 | Nome: Batom Matte Nude Passione | Marca: Mary Kay | Estilo: Make
+Preco: R$ 48.9 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 485 | Nome: Batom delicato Nude | Marca: Mary Kay | Estilo: Make
+Preco: R$ 48.9 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 733 | Nome: Brilho Labial Mary Kay Unlimited? 3,5g Nude Blush | Marca: Mary Kay | Estilo: M
+ake
+Preco: R$ 67.9 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 734 | Nome: Brilho Labial Mary Kay Unlimited? 3,5g Pink Ballerina | Marca: Mary Kay | Estil
+o: Make
+Preco: R$ 67.9 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 735 | Nome: Brilho Labial Mary Kay Unlimited? 3,5g Pink Ballerina | Marca: Mary Kay | Estil
+o: Make
+Preco: R$ 67.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 732 | Nome: Brilho Labial Mary Kay Unlimited? 3,5g Sheer Illusion | Marca: Mary Kay | Estil
+o: Make
+Preco: R$ 67.9 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 4 of 56 --
+
+ID: 729 | Nome: Bálsamo Labial com Cor At Play® - 4,6g Magenta Crush | Marca: Mary Kay | Estilo
+: Make
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 730 | Nome: Bálsamo Labial com Cor At Play® - 4,6g Mauve Love | Marca: Mary Kay | Estilo: M
+ake
+Preco: R$ 39.9 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 731 | Nome: Bálsamo Labial com Cor At Play® - 4,6g Red Crush | Marca: Mary Kay | Estilo: Ma
+ke
+Preco: R$ 39.9 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 12 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Marrom 470 | Marca: Natura | Estilo: Make
+Preco: R$ 33.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 868 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Rosa 200 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 13 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Rosa 204 | Marca: Natura | Estilo: Make
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2027-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 866 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Rosa 204 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 869 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Rosa 280 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 14 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Vermelho 120 | Marca: Natura | Estilo: Make
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 15 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Vinho 540 | Marca: Natura | Estilo: Make
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 867 | Nome: Batom Color Hidra FPS 8 Faces 3,5g Vinho 540 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 597 | Nome: Batom Color Hidra FPS 8 Faces Rosa 200 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 598 | Nome: Batom Color Hidra FPS 8 Faces Rosa 280 | Marca: Natura | Estilo: Make
+Preco: R$ 35.9 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 16 | Nome: Batom Faces Rosa | Marca: Natura | Estilo: Make
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2025-09-16 | Vendido: Nao | Qtd vendida: 0
+ID: 380 | Nome: Batom Matte Faces 3,5g Cookie Nude | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 602 | Nome: Batom Matte Faces Cookie Nude | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 474 | Nome: Batom Matte Faces Marsala | Marca: Natura | Estilo: Make
+Preco: R$ 18.9 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 861 | Nome: Batom Matte Faces Naked Nude | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 677 | Nome: Batom Multimix Cremoso Faces 3,5 g Cobre Mistic | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 5 of 56 --
+
+ID: 864 | Nome: Batom Multimix Cremoso Faces Bege Fresh | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 24 | Nome: Batom Multimix Cremoso Faces Cobre Mistic | Marca: Natura | Estilo: Make
+Preco: R$ 22.9 | Estoque: 0 | Validade: 2027-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 863 | Nome: Batom Multimix Cremoso Faces Cobre Sunset | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 862 | Nome: Batom Multimix Cremoso Faces Coral Fun | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 865 | Nome: Batom Multimix Cremoso Faces Hey Honey | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 860 | Nome: Batom Multimix Cremoso Faces Vermelho Hot | Marca: Natura | Estilo: Make
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 381 | Nome: Erva doce caixa de sabonete cremoso 3x100g | Marca: Natura | Estilo: Make
+Preco: R$ 31.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 4
+ID: 473 | Nome: FACES BATOM MATTE COR ROSA CANDY | Marca: Natura | Estilo: Make
+Preco: R$ 18.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 475 | Nome: Gloss Labial Faces Sparkle Glass | Marca: Natura | Estilo: Make
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 591 | Nome: Batom Hidratante Vinho Nudete 3,8g | Marca: Quem Disse Berenice | Estilo: Make
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Body splash
+ID: 6 | Nome: Aquavibe Baby Smell Body Splash 300ml | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 26.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 7 | Nome: Aquavibe Pretty Blue Body Splash 300ml | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 26.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 389 | Nome: Body Splash Tododia Romã e Amêndoas Glaceadas 200 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 93.9 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 745 | Nome: Tododia Flor de Gengibre e Tangerina Body Splash Feminino 200 ml | Marca: Natur
+a | Estilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Colônias
+ID: 57 | Nome: Colônia Filhotes Au.Migos Pets 60ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 59.9 | Estoque: 1 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Condicionador
+ID: 346 | Nome: Condicionador Siàge Cauterização dos Lisos 200ml | Marca: Eudora | Estilo: Cabe
+lo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 67 | Nome: Condicionador Siàge Expert Regeneração Pós Química 200ml | Marca: Eudora | Estil
+
+-- 6 of 56 --
+
+o: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 68 | Nome: Condicionador Siàge Liso Intenso 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 538 | Nome: Condicionador Siàge Nutri Acid.Complex 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 778 | Nome: Condicionador Siàge Nutri Acid.Complex 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 2
+ID: 69 | Nome: Condicionador Siàge Nutri Rosé 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 70 | Nome: Condicionador Siàge Reconstrói Os Fios 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 44.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 292 | Nome: Siage Nutri Rosé Condicionador 200 ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 616 | Nome: Siàge Condicionador Hair-Plastia 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 647 | Nome: Siàge Condicionador Hair-Plastia 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 780 | Nome: Siàge Condicionador Hair-Plastia 200ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 49.99 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 278 | Nome: Condicionador Hello Kitty Estilosa 100ml | Marca: Jequiti | Estilo: Cabelo
+Preco: R$ 26.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 66 | Nome: Condicionador MMBB | Marca: Natura | Estilo: Cabelo
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 377 | Nome: Condicionador Nutritivo Tododia Pêssego e Amêndoa 280 ml | Marca: Natura | Esti
+lo: Cabelo
+Preco: R$ 37.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 71 | Nome: Condicionador Sou cacheados 400ml | Marca: Natura | Estilo: Cabelo
+Preco: R$ 25.0 | Estoque: 0 | Validade: 2026-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 200 | Nome: Refil condicionador Plant curvas envolventes | Marca: Natura | Estilo: Cabelo
+Preco: R$ 25.0 | Estoque: 0 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 201 | Nome: Refil condicionador Plant hidratação reparadora | Marca: Natura | Estilo: Cabel
+o
+Preco: R$ 25.0 | Estoque: 0 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Creme bisnaga
+ID: 879 | Nome: Avon Care Creme Facial Radiância e Luminosidade 6 em 1 100g | Marca: Avon | Est
+ilo: Make
+Preco: R$ 32.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Creme hidratante para as mãos
+ID: 646 | Nome: Care Creme Protetor Para Maos Luvas De Silicone 75 g | Marca: Avon | Estilo: Co
+
+-- 7 of 56 --
+
+rpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 645 | Nome: Care luva de silicone tradicional para as mãos 120g | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 24.99 | Estoque: 3 | Validade: 2029-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 806 | Nome: Creme Perfumado Para As Mãos Instance Ameixa e Praliné 30g | Marca: Eudora | Es
+tilo: Corpo e Banho
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 808 | Nome: Creme Perfumado Para Mãos Instance Baunilha Nuit 30g | Marca: Eudora | Estilo:
+Corpo e Banho
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 799 | Nome: Creme Perfumado para Mãos Instance Cereja e Amêndoas 30g | Marca: Eudora | Esti
+lo: Corpo e Banho
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 800 | Nome: Instance Baunilha Creme Hidratante para Mãos 30g | Marca: Eudora | Estilo: Corp
+o e Banho
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 566 | Nome: Creme Hidratante para as Mãos Ekos Castanha | Marca: Natura | Estilo: Corpo e B
+anho
+Preco: R$ 59.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 872 | Nome: Creme Nutritivo para Mãos Tododia Acerola e Hibisco 50 ml | Marca: Natura | Est
+ilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 871 | Nome: Creme Nutritivo para Mãos Tododia Pêssego e Flor de Cravo 50 ml | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 600 | Nome: Creme Nutritivo para as Mãos Tododia Algodão 50 ml | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2027-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 857 | Nome: Creme Nutritivo para as Mãos Tododia Algodão 50 ml | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 856 | Nome: Creme Nutritivo para as Mãos Tododia Noz Pecã e Cacau FPS 20 50 g | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 604 | Nome: Creme Nutritivo para as Mãos Tododia Tâmara e Canela 50 ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 2 | Validade: 2027-12-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Creme hidratante para os pés
+ID: 644 | Nome: Care Footworks Creme Desodorante para pés Extrassecos 80g | Marca: Avon | Estil
+o: Corpo e Banho
+
+-- 8 of 56 --
+
+Preco: R$ 21.99 | Estoque: 3 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Creme para Pentear
+ID: 245 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Cabelo
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 553 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Cabelo
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 246 | Nome: Shower Gel Cabelo e Corpo 2 em 1 Coffee Man 200g | Marca: O Boticário | Estilo:
+Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Cuidados para o banho
+ID: 305 | Nome: Timewise Gel de limpeza 4 em 1 Mista/Oleosa | Marca: Mary Kay | Estilo: Skincar
+e
+Preco: R$ 78.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 306 | Nome: Timewise Gel de limpeza 4 em 1 Mista/Oleosa | Marca: Mary Kay | Estilo: Skincar
+e
+Preco: R$ 78.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Cuidados pós-banho
+ID: 561 | Nome: Refil Ekos Frescor Maracujá 150 ml | Marca: Natura | Estilo: Skincare
+Preco: R$ 105.9 | Estoque: 1 | Validade: 2029-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 31 | Nome: Body Splash Desodorante Colônia Nativa Spa Cereja Rouge 200ml | Marca: O Boticár
+io | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 1 | Validade: 2026-09-21 | Vendido: Nao | Qtd vendida: 0
+ID: 95 | Nome: Desodorante Body Spray Egeo Blue, 100 ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 1
+ID: 623 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 631 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 37.9 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 655 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Depilação
+ID: 415 | Nome: Creme Depilatório para o Corpo | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 39.99 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 880 | Nome: Creme Depilatório para o Rosto 30g | Marca: Avon | Estilo: Skincare
+Preco: R$ 29.99 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 9 of 56 --
+
+ID: 84 | Nome: Depilador Mágico Dourado Portátil | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 29.99 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Sim | Qtd vendida: 1
+Tipo: Desodorantes
+ID: 318 | Nome: 300KM/H Desodorante masculino roll-on | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 53 | Nome: Care Loção Desodorante Corporal Manteiga De Cacau | Marca: Avon | Estilo: Corpo
+e Banho
+Preco: R$ 42.99 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 728 | Nome: Care Redutor de Pelos Desodorante Antitranspirante Roll-on 48ml | Marca: Avon |
+Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 842 | Nome: Care Redutor de Pelos Desodorante Antitranspirante Roll-on 48ml | Marca: Avon |
+Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 405 | Nome: Desodorante Antitranspirante Max Turbo 300km/h | Marca: Avon | Estilo: Corpo e
+Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 403 | Nome: Desodorante Antitranspirante Quantum | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 722 | Nome: Desodorante Antitranspirante Roll-On 48 ml 300Km h Max Turbo | Marca: Avon | Es
+tilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 837 | Nome: Desodorante Antitranspirante Roll-On 48 ml 300Km h Max Turbo | Marca: Avon | Es
+tilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 716 | Nome: Desodorante Antitranspirante Roll-On 48 ml 300Km h Quantum | Marca: Avon | Esti
+lo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 831 | Nome: Desodorante Antitranspirante Roll-On 48 ml 300Km h Quantum | Marca: Avon | Esti
+lo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 720 | Nome: Desodorante Antitranspirante Roll-On 48 ml Aquavibe Refrescantes Baby Smell | M
+arca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 835 | Nome: Desodorante Antitranspirante Roll-On 48 ml Aquavibe Refrescantes Baby Smell | M
+arca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 718 | Nome: Desodorante Antitranspirante Roll-On 48 ml Aquavibe Refrescantes Pretty Blue |
+Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 833 | Nome: Desodorante Antitranspirante Roll-On 48 ml Aquavibe Refrescantes Pretty Blue |
+
+-- 10 of 56 --
+
+Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 721 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 836 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 714 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Beyond | Marca: Avon | Esti
+lo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 829 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Beyond | Marca: Avon | Esti
+lo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 715 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Glamour | Marca: Avon | Est
+ilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 830 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Glamour | Marca: Avon | Est
+ilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 713 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Moon | Marca: Avon | Estilo
+: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 828 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Moon | Marca: Avon | Estilo
+: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 712 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Shine | Marca: Avon | Estil
+o: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 827 | Nome: Desodorante Antitranspirante Roll-On 48 ml Far Away Shine | Marca: Avon | Estil
+o: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 723 | Nome: Desodorante Antitranspirante Roll-On 48 ml Musk Marine | Marca: Avon | Estilo:
+Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 838 | Nome: Desodorante Antitranspirante Roll-On 48 ml Musk Marine | Marca: Avon | Estilo:
+Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 719 | Nome: Desodorante Antitranspirante Roll-On 48 ml Musk Metropolitano | Marca: Avon | E
+stilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 834 | Nome: Desodorante Antitranspirante Roll-On 48 ml Musk Metropolitano | Marca: Avon | E
+
+-- 11 of 56 --
+
+stilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 725 | Nome: Desodorante Antitranspirante Roll-On 48 ml Musk Mineralis | Marca: Avon | Estil
+o: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 724 | Nome: Desodorante Antitranspirante Roll-On 48 ml Petit Attitude | Marca: Avon | Estil
+o: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 840 | Nome: Desodorante Antitranspirante Roll-On 48 ml Petit Attitude | Marca: Avon | Estil
+o: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 717 | Nome: Desodorante Antitranspirante Roll-On 48 ml Pur Blanca | Marca: Avon | Estilo: C
+orpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 832 | Nome: Desodorante Antitranspirante Roll-On 48 ml Pur Blanca | Marca: Avon | Estilo: C
+orpo e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 726 | Nome: Desodorante Antitranspirante Roll-On 48 ml Segno | Marca: Avon | Estilo: Corpo
+e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 839 | Nome: Desodorante Antitranspirante Roll-On 48 ml Segno | Marca: Avon | Estilo: Corpo
+e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 613 | Nome: Desodorante Antitranspirante Roll-On 50 ml On Duty Care Clareador | Marca: Avon
+| Estilo: Corpo e Banho
+Preco: R$ 9.49 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 614 | Nome: Desodorante Antitranspirante Roll-On 50 ml On Duty Women Powder | Marca: Avon |
+Estilo: Corpo e Banho
+Preco: R$ 9.49 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 406 | Nome: Desodorante Antitranspirante Roll-On Erva-Doce | Marca: Avon | Estilo: Corpo e
+Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 404 | Nome: Desodorante Antitranspirante Roll-On Musk Metropolitano | Marca: Avon | Estilo:
+Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 402 | Nome: Desodorante Antitranspirante Roll-On Musk Mineralis | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 98 | Nome: Desodorante Creme Bisnaga Far Away Splendoria | Marca: Avon | Estilo: Corpo e Ba
+nho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 419 | Nome: Desodorante Creme Vinho pote 50g - Pierre Alexander | Marca: Avon | Estilo: Cor
+
+-- 12 of 56 --
+
+po e Banho
+Preco: R$ 27.9 | Estoque: 10 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 5
+ID: 643 | Nome: Desodorante Para os Pés em Spray 100ml | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 23.99 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 99 | Nome: Desodorante Roll On Musk Marine | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 100 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Aquavibe Baby Smell | Mar
+ca: Avon | Estilo: Corpo e Banho
+Preco: R$ 26.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 401 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Avon Care Neutro Sem Perf
+ume | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 2
+ID: 608 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Avon Care Neutro Sem Perf
+ume | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.99 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 2
+ID: 703 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Avon Care Neutro Sem Perf
+ume | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 101 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Care Neutro Sem Perfume |
+Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 2
+ID: 102 | Nome: Desodorante em Creme Antitranspirante 48h de Proteção Erva-Doce | Marca: Avon |
+Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 610 | Nome: Erva Doce Desodorante Antitranspirante Roll-On 48ml | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 11.49 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 727 | Nome: Erva Doce Desodorante Antitranspirante Roll-On 48ml | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 841 | Nome: Erva Doce* Desodorante Antitranspirante Roll-On 48ml | Marca: Avon | Estilo: Co
+rpo e Banho
+Preco: R$ 11.49 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 165 | Nome: Musk Mineralis Desodorante Antitranspirante Roll-On | Marca: Avon | Estilo: Cor
+po e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 320 | Nome: Musk Mineralis Desodorante roll-on masculino | Marca: Avon | Estilo: Corpo e Ba
+nho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 321 | Nome: Segno Desodorante roll-on masculino | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 10.99 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 13 of 56 --
+
+ID: 249 | Nome: Sérum Desodorante Para os Pés | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 15.99 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 344 | Nome: Antitranspirante Roll On Instance Frutas Vermelhas 55ml | Marca: Eudora | Estil
+o: Corpo e Banho
+Preco: R$ 23.99 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 586 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Nuvem 200ml | Marca: Eudora | Esti
+lo: Corpo e Banho
+Preco: R$ 89.9 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 1
+ID: 359 | Nome: Creme Relaxante Desodorante Corporal Instance Maracujá 180ml | Marca: Eudora |
+Estilo: Corpo e Banho
+Preco: R$ 42.99 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 798 | Nome: Creme Relaxante Desodorante Corporal Instance Maracujá 180ml | Marca: Eudora |
+Estilo: Corpo e Banho
+Preco: R$ 37.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 348 | Nome: Desodorante Antitranspirante Aerossol Instance Frutas Vermelhas 150ml/90g | Mar
+ca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 34.99 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 355 | Nome: Desodorante Body Spray Club 6 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 805 | Nome: Desodorante Body Spray Club 6 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 650 | Nome: Desodorante Body Spray Eudora 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 357 | Nome: Desodorante Body Spray Imensi 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 801 | Nome: Desodorante Body Spray Imensi 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 804 | Nome: Desodorante Body Spray Impression 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 2 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 353 | Nome: Desodorante Body Spray Intention 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 649 | Nome: Desodorante Body Spray La Victorie Intense 100ml | Marca: Eudora | Estilo: Corp
+o e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 760 | Nome: Desodorante Body Spray La Victorie Intense 100ml | Marca: Eudora | Estilo: Corp
+o e Banho
+Preco: R$ 44.99 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 802 | Nome: Desodorante Body Spray La Victorie Intense 100ml | Marca: Eudora | Estilo: Corp
+o e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 803 | Nome: Desodorante Body Spray Lyra 100ml | Marca: Eudora | Estilo: Corpo e Banho
+
+-- 14 of 56 --
+
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 352 | Nome: Desodorante Body Spray Volpe 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 651 | Nome: Desodorante Body Spray Volpe 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 626 | Nome: Eudora Magnific Pink Peônia Desodorante Colônia 75ml | Marca: Eudora | Estilo:
+Corpo e Banho
+Preco: R$ 139.9 | Estoque: 0 | Validade: 2029-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 1 | Nome: Intetion for man desodorante spray 100ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 44.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 349 | Nome: Spray Perfumado Desodorante Colônia Instance Maracujá 200ml | Marca: Eudora | E
+stilo: Corpo e Banho
+Preco: R$ 72.99 | Estoque: 1 | Validade: 2029-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 276 | Nome: Ana Castela Boiadeira body splash 200ml | Marca: Jequiti | Estilo: Corpo e Banh
+o
+Preco: R$ 69.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 549 | Nome: Ana Castela Vai Te Viciar Desodorante Colônia Splash, 200 ml | Marca: Jequiti |
+Estilo: Corpo e Banho
+Preco: R$ 74.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 275 | Nome: Ana Castela Vai te Viciar body splash 200ml | Marca: Jequiti | Estilo: Corpo e
+Banho
+Preco: R$ 69.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 442 | Nome: Deluxe Desodorante Colônia Feminina Jequiti, 90 ml | Marca: Jequiti | Estilo: C
+orpo e Banho
+Preco: R$ 109.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 88 | Nome: Desodorante Antitranspirante Roll-On Sensi Suave - Talco E Algodão, 55ml | Marca
+: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 12.0 | Estoque: 0 | Validade: 2026-09-29 | Vendido: Sim | Qtd vendida: 1
+ID: 874 | Nome: Desodorante Antitranspirante Roll-On Unissex Sensi Sem Perfume, 55 ml | Marca:
+Jequiti | Estilo: Corpo e Banho
+Preco: R$ 26.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 875 | Nome: Desodorante Antitranspirante Roll-On Unissex Sensi Suave , 55 ml | Marca: Jequi
+ti | Estilo: Corpo e Banho
+Preco: R$ 26.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 441 | Nome: Desodorante Colônia Masculina Malte Black, 75 ml | Marca: Jequiti | Estilo: Cor
+po e Banho
+Preco: R$ 79.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 440 | Nome: Desodorante Colônia Masculina Malte Reserva, 75 ml | Marca: Jequiti | Estilo: C
+orpo e Banho
+Preco: R$ 79.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 678 | Nome: Desodorante roll-on Sensi Talco e Algodão | Marca: Jequiti | Estilo: Corpo e Ba
+
+-- 15 of 56 --
+
+nho
+Preco: R$ 12.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 439 | Nome: Óleo Desodorante Hidratante Corporal Óllio Amêndoas e Especiarias | Marca: Jequ
+iti | Estilo: Corpo e Banho
+Preco: R$ 79.9 | Estoque: 1 | Validade: 2027-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 544 | Nome: Óllio Óleo Desodorante Hidratante Corporal Óllio Fascinante Amêndoas Doces | Ma
+rca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 84.9 | Estoque: 1 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 545 | Nome: Óllio Óleo Hidratante Corporal Óllio Amêndoas e Especiarias | Marca: Jequiti |
+Estilo: Corpo e Banho
+Preco: R$ 84.9 | Estoque: 1 | Validade: 2027-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 525 | Nome: Body Splash Desodorante Colônia Tododia Macadâmia Feminino 200 ml | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 93.9 | Estoque: 0 | Validade: 2029-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 572 | Nome: Body Splash Desodorante Colônia Tododia Macadâmia Feminino 200 ml | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 93.9 | Estoque: 1 | Validade: 2030-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 509 | Nome: Body Splash Desodorante Colônia Tododia Romã e Amêndoas Glaceadas 200 ml | Marc
+a: Natura | Estilo: Corpo e Banho
+Preco: R$ 93.9 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 385 | Nome: Creme Desodorante Nutritivo Corporal Tododia Algodão | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 52.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 812 | Nome: Creme Desodorante Nutritivo Corporal Tododia Algodão 200 ml | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 618 | Nome: Creme Desodorante Nutritivo Para o Corpo Tododia Algodão 400 ml | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 526 | Nome: Creme Desodorante Nutritivo Para o Corpo Tododia Macadâmia 400 ml | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 78.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 573 | Nome: Creme Desodorante Nutritivo Para o Corpo Tododia Macadâmia 400 ml | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 78.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 666 | Nome: Creme Desodorante Nutritivo para o Corpo Tododia Amora Vermelha e Jabuticaba 40
+0 ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 667 | Nome: Creme Desodorante Nutritivo para o Corpo Tododia Amora Vermelha e Jabuticaba 40
+0 ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 673 | Nome: Creme Desodorante Nutritivo para o Corpo Tododia Cereja e Avelã 200 ml | Marca:
+
+-- 16 of 56 --
+
+Natura | Estilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 0 | Validade: 2029-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 669 | Nome: Creme Desodorante Nutritivo para o Corpo Tododia Noz Pecã e Cacau 400 ml | Marc
+a: Natura | Estilo: Corpo e Banho
+Preco: R$ 56.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 510 | Nome: Creme Desodorante Nutritivo para o Corpo Tododia Romã e Amêndoas Glaceadas 400
+ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 93.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 498 | Nome: Desodorante Antitranspirante Roll On Kaiak Masculino 75 ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 471 | Nome: Desodorante Antitranspirante Roll on Tododia Alecrim e Sálvia 70 ml | Marca: Na
+tura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 818 | Nome: Desodorante Antitranspirante Roll on Tododia Algodão 70 ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 742 | Nome: Desodorante Antitranspirante Roll on Tododia Macadâmia 70 ml | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2027-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 470 | Nome: Desodorante Antitranspirante Roll on Tododia Sem Perfume 70 ml | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 89 | Nome: Desodorante Antitranspirante Roll-on Erva Doce | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Sim | Qtd vendida: 4
+ID: 383 | Nome: Desodorante Antitranspirante Roll-on Erva Doce | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 487 | Nome: Desodorante Antitranspirante Roll-on Erva Doce 70 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 593 | Nome: Desodorante Antitranspirante Roll-on Erva Doce 70 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 22.42 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Sim | Qtd vendida: 3
+ID: 692 | Nome: Desodorante Antitranspirante Roll-on Erva Doce 70 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Sim | Qtd vendida: 2
+ID: 843 | Nome: Desodorante Antitranspirante Roll-on Erva Doce 70 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 29.9 | Estoque: 3 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 624 | Nome: Desodorante Antitranspirante Roll-on Kaiak Masculino 75 ml | Marca: Natura | Es
+
+-- 17 of 56 --
+
+tilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 620 | Nome: Desodorante Antitranspirante Roll-on Kaiak O2 Masculino 75 ml | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 563 | Nome: Desodorante Antitranspirante Roll-on Tododia Acerola e Hibisco 70 ml | Marca: N
+atura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 562 | Nome: Desodorante Antitranspirante Roll-on Tododia Alecrim e Sálvia | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 2
+ID: 565 | Nome: Desodorante Antitranspirante Roll-on Tododia Algodão 70 ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 2 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 816 | Nome: Desodorante Antitranspirante Roll-on Tododia Algodão 70 ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 378 | Nome: Desodorante Antitranspirante Roll-on Tododia Macadâmia | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 397 | Nome: Desodorante Antitranspirante Roll-on Tododia Macadâmia | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 2 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 460 | Nome: Desodorante Antitranspirante Roll-on Tododia Macadâmia | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 468 | Nome: Desodorante Antitranspirante Roll-on Tododia Macadâmia | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 819 | Nome: Desodorante Antitranspirante Roll-on Tododia Macadâmia 70 ml | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 90 | Nome: Desodorante Antitranspirante Roll-on Tododia Sem Perfume | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 815 | Nome: Desodorante Antitranspirante Roll-on Tododia Sem Perfume 70 ml | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 461 | Nome: Desodorante Antitranspirante em Creme Tododia Leite de Algodão | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 854 | Nome: Desodorante Antitranspirante em Creme Tododia Leite de Algodão 80 g | Marca: Na
+
+-- 18 of 56 --
+
+tura | Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 91 | Nome: Desodorante Antitranspirante em Creme Tododia Macadâmia | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 746 | Nome: Desodorante Antitranspirante em Creme Tododia Macadâmia 80 g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 500 | Nome: Desodorante Antitranspirante em Creme Tododia Noz Pecã e Cacau 80 g | Marca: Na
+tura | Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 92 | Nome: Desodorante Antitranspirante em Creme Tododia Sem Perfume | Marca: Natura | Esti
+lo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 499 | Nome: Desodorante Antitranspirante em Creme Tododia Sem Perfume 80 g | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 853 | Nome: Desodorante Antitranspirante em Creme Tododia Sem Perfume 80 g | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 517 | Nome: Desodorante Colônia Kaiak Oceano Feminino Miniatura 25 ml | Marca: Natura | Est
+ilo: Corpo e Banho
+Preco: R$ 69.9 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 97 | Nome: Desodorante Corporal Humor Conexão Masculino 100ml | Marca: Natura | Estilo: Cor
+po e Banho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 662 | Nome: Desodorante Corporal Masculino Kaiak Oceano 100 ml | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 56.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 809 | Nome: Desodorante Corporal Natura Homem Elo 100 ml | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 56.9 | Estoque: 1 | Validade: 2029-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 810 | Nome: Desodorante Corporal Natura Homem Sagaz 100 ml | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 56.9 | Estoque: 1 | Validade: 2030-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 814 | Nome: Desodorante Corporal Refil Biografia Feminino 100 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2030-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 858 | Nome: Desodorante Perfume Essencial Único Masculino 90 ml | Marca: Natura | Estilo: C
+orpo e Banho
+Preco: R$ 322.9 | Estoque: 0 | Validade: 2030-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 595 | Nome: Desodorante Roll-on Natura Tododia 70 Ml - Fragrâncias Fragrância Alecrim E Sál
+
+-- 19 of 56 --
+
+via | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 103 | Nome: Desodorante em creme Tododia Erva Doce | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 104 | Nome: Desodorante em creme Tododia Invisível s/perf | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 14.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 105 | Nome: Desodorante roll-on Acerola e Hibisco | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 21.0 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 106 | Nome: Desodorante rollon Homem Dom | Marca: Natura | Estilo: Masculinos
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 107 | Nome: Desodorante rollon toodia manga rosa e agua de coco | Marca: Natura | Estilo: C
+orpo e Banho
+Preco: R$ 19.0 | Estoque: 0 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 108 | Nome: Desodorante spray Biografia Assinatura feminino | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 109 | Nome: Desodorante spray Biografia Assinatura masculino | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 38.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 110 | Nome: Desodorante spray Biografia Assinatura masculino 100 | Marca: Natura | Estilo:
+Masculinos
+Preco: R$ 38.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 111 | Nome: Desodorante spray Biografia Assinatura masculino 100ml | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 112 | Nome: Desodorante spray Essencial feminino | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 54.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 113 | Nome: Desodorante spray Homem Verse | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 114 | Nome: Desodorante spray Humor a Dois | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 115 | Nome: Desodorante spray Kriska Shock | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 36.0 | Estoque: 1 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 116 | Nome: Desodorante spray Kriska Shock | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 54.9 | Estoque: 1 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 117 | Nome: Desodorante spray Kriska Shock | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 36.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 118 | Nome: Desodorante spray Luna Confiante | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 54.9 | Estoque: 1 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 119 | Nome: Desodorante spray Luna Radiante | Marca: Natura | Estilo: Corpo e Banho
+
+-- 20 of 56 --
+
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 120 | Nome: Desodorante spray Meu 1° Humor | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 38.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 121 | Nome: Desodorante spray kaik aventura 100ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 122 | Nome: Desodorante spray kriska 100ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 123 | Nome: Desodorante spray revelar 100ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 36.0 | Estoque: 0 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 128 | Nome: Erva Doce Des Creme Invisible 80g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 1 | Validade: 2025-09-16 | Vendido: Sim | Qtd vendida: 3
+ID: 129 | Nome: Erva Doce Des Creme Invisible 80g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 463 | Nome: Homem Tato desodorante roll-on 70ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 516 | Nome: Kaiak Oceano Feminino 100 ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 189.9 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 387 | Nome: Kriska 100 ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 169.9 | Estoque: 0 | Validade: 2029-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 158 | Nome: Luna Absoluta Desodorante spray | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 54.9 | Estoque: 1 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 664 | Nome: Refil Creme Desodorante Nutritivo para o Corpo Tododia Algodão 400 ml | Marca:
+Natura | Estilo: Perfumaria
+Preco: R$ 56.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 567 | Nome: Refil Creme Sorbet Desodorante Nutritivo para o Corpo Tododia Amora e Flor de P
+êssego | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 58.9 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 826 | Nome: Refil Desodorante Corporal Biografia Masculino 100 ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2030-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 190 | Nome: Refil Desodorante Corporal Humor Liberta | Marca: Natura | Estilo: Corpo e Banh
+o
+Preco: R$ 54.9 | Estoque: 0 | Validade: 2029-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 191 | Nome: Refil Desodorante Corporal Humor Transforma | Marca: Natura | Estilo: Corpo e B
+anho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2029-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 813 | Nome: Refil Desodorante Corporal Kaiak Masculino 100 ml | Marca: Natura | Estilo: Cor
+po e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2030-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 192 | Nome: Refil Desodorante Corporal Kaiak Oceano Masculino | Marca: Natura | Estilo: Cor
+po e Banho
+
+-- 21 of 56 --
+
+Preco: R$ 41.9 | Estoque: 0 | Validade: 2029-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 193 | Nome: Refil Desodorante Corporal Sr. N | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2029-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 202 | Nome: Refil desodorante spray Essencial feminino | Marca: Natura | Estilo: Corpo e Ba
+nho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 564 | Nome: Todo dia Desodorante Antitranspirante Roll-On Noites de Verão, Amora e Flor de
+Pêssego, 72h Proteção, 70ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 251 | Nome: Tododia Des Rollon Algodão 70ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 255 | Nome: Tododia desodorante hidratante corporal Maça do amor 400ml | Marca: Natura | Es
+tilo: Corpo e Banho
+Preco: R$ 75.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 706 | Nome: tododia desodorante roll-on alecrim e salvia | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 540 | Nome: Batom Cremoso Rosa 250 Intense 3,8g | Marca: O Boticário | Estilo: Corpo e Banh
+o
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 660 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Deleite Caramelizado 200ml | Marca
+: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 796 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Deleite Caramelizado 200ml | Marca
+: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 92.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 786 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Pessegura 200ml | Marca: O Boticár
+io | Estilo: Corpo e Banho
+Preco: R$ 92.9 | Estoque: 1 | Validade: 2029-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 784 | Nome: Body Splash Desodorante Colônia Zaad 200ml | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 119.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 32 | Nome: Body Splash Desodorante Nativa SPA Orquídea Lumière 200ml | Marca: O Boticário |
+Estilo: Corpo e Banho
+Preco: R$ 84.92 | Estoque: 0 | Validade: 2029-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 33 | Nome: Body Spray Desodorante Arbo 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 653 | Nome: Body Spray Desodorante Arbo 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 782 | Nome: Body Spray Desodorante Arbo 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 22 of 56 --
+
+ID: 34 | Nome: Body Spray Desodorante Arbo Botanic 100ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 40.72 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 652 | Nome: Body Spray Desodorante Arbo Botanic 100ml | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 788 | Nome: Body Spray Desodorante Clash 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2030-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 701 | Nome: Body Spray Desodorante Malbec Ultra Bleu 100ml | Marca: O Boticário | Estilo: C
+orpo e Banho
+Preco: R$ 49.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 35 | Nome: Body Spray Desodorante Quasar Blue 100ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 533 | Nome: Body Spray Desodorante Quasar Blue 100ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 2
+ID: 557 | Nome: Body Spray Desodorante Quasar Blue 100ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 654 | Nome: Body Spray Desodorante Quasar Blue 100ml | Marca: O Boticário | Estilo: Corpo e
+Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 632 | Nome: Clash Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 169.9 | Estoque: 0 | Validade: 2029-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 273 | Nome: Cofee desodorante aerossol 75G/125ML | Marca: O Boticário | Estilo: Corpo e Ban
+ho
+Preco: R$ 37.9 | Estoque: 2 | Validade: 2027-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 72 | Nome: Creme Perfumado Desodorante Nativa SPA Orquidea Lumière 400ml | Marca: O Boticár
+io | Estilo: Corpo e Banho
+Preco: R$ 50.92 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 85 | Nome: Desodorante Aerosol Antitranspirante Nativa SPA Ameixa 75g/125ml | Marca: O Boti
+cário | Estilo: Corpo e Banho
+Preco: R$ 21.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 766 | Nome: Desodorante Antitranspirante Aerosol Cuide-se Bem Protect And Care 90g/150ml |
+Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 86 | Nome: Desodorante Antitranspirante Aerosol Lily 75g/125ml 2x75g | Marca: O Boticário |
+Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 768 | Nome: Desodorante Antitranspirante Aerosol Men Cool Protect 90g/150ml | Marca: O Boti
+cário | Estilo: Corpo e Banho
+
+-- 23 of 56 --
+
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 87 | Nome: Desodorante Antitranspirante Aerossol Arbo 75g/125ml 2x75g | Marca: O Boticário
+| Estilo: Corpo e Banho
+Preco: R$ 56.85 | Estoque: 2 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 769 | Nome: Desodorante Antitranspirante Aerossol Elysée 75g/125ml | Marca: O Boticário | E
+stilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 554 | Nome: Desodorante Antitranspirante Aerossol Uomini 75g/125ml | Marca: O Boticário | E
+stilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 409 | Nome: Desodorante Antitranspirante Aerossol Zaad 75g/125ml | Marca: O Boticário | Est
+ilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2027-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 783 | Nome: Desodorante Antitranspirante Aerossol Zaad 75g/125ml | Marca: O Boticário | Est
+ilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 333 | Nome: Desodorante Antitranspirante Malbec Aerossol 75g/125ml | Marca: O Boticário | E
+stilo: Corpo e Banho
+Preco: R$ 37.99 | Estoque: 2 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 334 | Nome: Desodorante Antitranspirante Roll-on Malbec 55ml | Marca: O Boticário | Estilo:
+Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 93 | Nome: Desodorante Body Spray Arbo, 100 ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 40.72 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Sim | Qtd vendida: 1
+ID: 556 | Nome: Desodorante Body Spray Boticolletion Connexion 100ml | Marca: O Boticário | Est
+ilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2030-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 583 | Nome: Desodorante Body Spray Boticolletion Connexion 100ml | Marca: O Boticário | Est
+ilo: Corpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 94 | Nome: Desodorante Body Spray Egeo Blue 100ml | Marca: O Boticário | Estilo: Corpo e Ba
+nho
+Preco: R$ 40.72 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 532 | Nome: Desodorante Body Spray Egeo Blue 100ml | Marca: O Boticário | Estilo: Corpo e B
+anho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 628 | Nome: Desodorante Body Spray Floratta Rose 100ml | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 555 | Nome: Desodorante Body Spray Malbec 100ml | Marca: O Boticário | Estilo: Corpo e Banh
+o
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 24 of 56 --
+
+ID: 534 | Nome: Desodorante Em Creme Corporal Infantil Next 80g | Marca: O Boticário | Estilo:
+Corpo e Banho
+Preco: R$ 31.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 634 | Nome: Desodorante Em Creme Corporal Infantil Next 80g | Marca: O Boticário | Estilo:
+Corpo e Banho
+Preco: R$ 32.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 4
+ID: 539 | Nome: Desodorante Roll-on Cuide-se Bem Zero Alumínio 55ml | Marca: O Boticário | Esti
+lo: Corpo e Banho
+Preco: R$ 25.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 339 | Nome: Egeo Blue Desodorante aerossol | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 341 | Nome: Egeo Blue Desodorante aerossol | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 335 | Nome: Floratta Gold Desodorante Colônia 75ml | Marca: O Boticário | Estilo: Corpo e B
+anho
+Preco: R$ 159.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 794 | Nome: Floratta Red Blossom Desodorante Colônia 75ml | Marca: O Boticário | Estilo: Co
+rpo e Banho
+Preco: R$ 164.9 | Estoque: 2 | Validade: 2030-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 134 | Nome: Floratta Romance de Verão Desodorante Colônia 75ml | Marca: O Boticário | Estil
+o: Corpo e Banho
+Preco: R$ 159.9 | Estoque: 1 | Validade: 2029-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 135 | Nome: Floratta Rose Bouquet Desodorante Colônia 75ml | Marca: O Boticário | Estilo: C
+orpo e Banho
+Preco: R$ 97.43 | Estoque: 2 | Validade: 2029-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 141 | Nome: Glamour Desodorante Colônia 75ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 149.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 142 | Nome: Glamour Desodorante Colônia 75ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 149.9 | Estoque: 0 | Validade: 2027-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 411 | Nome: Glamour Secrets Black Intense Desodorante Colônia 75ml | Marca: O Boticário | E
+stilo: Corpo e Banho
+Preco: R$ 189.9 | Estoque: 0 | Validade: 2029-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 661 | Nome: Kit Sabonetes em Barra Nativa Spa Collection (3 itens) | Marca: O Boticário | E
+stilo: Corpo e Banho
+Preco: R$ 64.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 3 | Nome: Leau de Lily Soeil desodorante colônia 75ml | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 209.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 309 | Nome: Loção Antioxidante Desodorante Corporal Nativa SPA Morango Ruby 400ml | Marca:
+O Boticário | Estilo: Corpo e Banho
+Preco: R$ 86.9 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 25 of 56 --
+
+ID: 707 | Nome: Loção Aveludada Desodorante Corporal Nativa Spa Cereja Rouge 180ml | Marca: O B
+oticário | Estilo: Corpo e Banho
+Preco: R$ 59.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 658 | Nome: Loção Hidratante Desodorante Corporal Cuide-Se Bem Deleite Caramelizado 400ml |
+Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 74.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 795 | Nome: Loção Hidratante Desodorante Corporal Cuide-Se Bem Deleite Caramelizado 400ml |
+Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 74.9 | Estoque: 2 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 790 | Nome: Loção Hidratante Desodorante Corporal Cuide-se Bem Nuvem de Alegria 400ml | Mar
+ca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 74.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 156 | Nome: Loção Hidratante Desodorante Floratta Rose Bouquet 200ml | Marca: O Boticário |
+Estilo: Corpo e Banho
+Preco: R$ 44.96 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 629 | Nome: Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire 400ml | Marca: O B
+oticário | Estilo: Corpo e Banho
+Preco: R$ 86.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 295 | Nome: Loção Nutritiva Desodorante Nativa Spa Uva Merlot 400ml | Marca: O Boticário |
+Estilo: Corpo e Banho
+Preco: R$ 86.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 157 | Nome: Loção Radiante Desodorante Corporal Nativa Spa Ameixa Dourada 200ml | Marca: O
+Boticário | Estilo: Corpo e Banho
+Preco: R$ 64.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 630 | Nome: Malbec Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 209.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 700 | Nome: Malbec Gold Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo e Ba
+nho
+Preco: R$ 249.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 161 | Nome: Malbec X Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 214.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 797 | Nome: Manteiga Hidratante Desodorante Corporal Cuide-Se Bem Deleite 200g | Marca: O B
+oticário | Estilo: Corpo e Banho
+Preco: R$ 72.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 688 | Nome: Men Desodorante Aerossol 48h 75g | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 19.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 296 | Nome: NSPA Uva Merlot Refil hidratante 350ml | Marca: O Boticário | Estilo: Corpo e B
+anho
+Preco: R$ 67.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 175 | Nome: Pmpck Egeo Des Antit Aer Blue V2 | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 56.85 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 2
+
+-- 26 of 56 --
+
+ID: 186 | Nome: Quasar Blue Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo e Ba
+nho
+Preco: R$ 169.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 187 | Nome: Refil Creme Acetinado Desodorante Hidratante Corporal Lily Absolu 250g | Marca:
+O Boticário | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 188 | Nome: Refil Creme Acetinado Desodorante Hidratante Corporal Love Lily 250g | Marca: O
+Boticário | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 308 | Nome: Refil Loção Antioxidante Desodorante Corporal Nativa SPA Morango Ruby 350ml | M
+arca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 67.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 310 | Nome: Refil Loção Aveludada Desodorante Corporal Nativa Spa Cereja Rouge 350ml | Marc
+a: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 67.9 | Estoque: 3 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 196 | Nome: Refil Loção Desodorante Hidratante Corporal Cuide-Se Bem Deleite 350Ml | Marca:
+O Boticário | Estilo: Corpo e Banho
+Preco: R$ 57.9 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 1
+ID: 311 | Nome: Refil Loção Nutritiva Desodorante Nativa Spa Uva Merlot 350ml Nativa SPA | Marc
+a: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 67.9 | Estoque: 2 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 2 | Nome: Roll-on Leite e Mel desodorante 55ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 28.9 | Estoque: 2 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 260 | Nome: Uomini Infinite Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2025-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 172 | Nome: O.U.i Scapin 245 - Creme Riche Hidratante Corporal Refil 200g | Marca: Oui-Orig
+inal-Unique-Individuel | Estilo: Corpo e Banho
+Preco: R$ 109.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Finalizador
+ID: 345 | Nome: Balm Disciplinante Finalizador Capilar Siàge Glow Expert 100ml | Marca: Eudora
+| Estilo: Cabelo
+Preco: R$ 52.99 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Hidratante
+ID: 577 | Nome: Avon Care Creme Facial antissinais 6 em 1 100g | Marca: Avon | Estilo: Make
+Preco: R$ 32.99 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 3
+ID: 322 | Nome: Care Foot Hidratante para os pés | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 21.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 155 | Nome: Loção Hidratante Corporal Meu Bebê Soninho, 200 ml | Marca: Jequiti | Estilo: C
+orpo e Banho
+
+-- 27 of 56 --
+
+Preco: R$ 19.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 367 | Nome: Creme para Área dos Olhos TimeWise® 14g | Marca: Mary Kay | Estilo: Skincare
+Preco: R$ 81.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 304 | Nome: Hidratante Antioxidante TimeWise® 85g | Marca: Mary Kay | Estilo: Corpo e Banho
+Preco: R$ 106.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 363 | Nome: Hidratante Antioxidante Timewise Pele Mista/oleosa Mary Kay Oleosa/mista Dia/no
+ite | Marca: Mary Kay | Estilo: Corpo e Banho
+Preco: R$ 106.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 366 | Nome: Timewise Creme de Limpeza Facial 4 em 1 Normal/Seca | Marca: Mary Kay | Estilo:
+Skincare
+Preco: R$ 78.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 364 | Nome: Timewise Gel de Limpeza Facial 4 em 1 Mista/Oleosa | Marca: Mary Kay | Estilo:
+Corpo e Banho
+Preco: R$ 78.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 365 | Nome: Timewise Hidratante antioxidante Normal/Seca | Marca: Mary Kay | Estilo: Corpo
+e Banho
+Preco: R$ 106.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 388 | Nome: Creme Nutritivo para as Mãos Tododia Algodão | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 36.9 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 457 | Nome: Creme Nutritivo para as Mãos Tododia Tâmara e Canela | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 139 | Nome: Geleia hidratante humor próprio | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.0 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 749 | Nome: Hidratante Mamãe e Bebê Flor de Laranjeira 100 ml | Marca: Natura | Estilo: Cor
+po e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 515 | Nome: Hidratante Todo Dia Natura Cereja e Avelã 400ml | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 78.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 145 | Nome: Hidratante corporal Essencial Oud 200g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 94.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 750 | Nome: Hidratante para Mãos Humor Próprio 40 g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 512 | Nome: MAMAE E BEBE LOCAO HIDRATANTE TRADICIONAL 50ML | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 384 | Nome: Mousse Desodorante Hidratante Corporal Kriska | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 72.5 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 28 of 56 --
+
+ID: 176 | Nome: Polpa Hidratante para as Mãos Ekos Castanha 75 g | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 57.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 194 | Nome: Refil Ekos polpa hidratante corpo Andiroba | Marca: Natura | Estilo: Corpo e Ba
+nho
+Preco: R$ 47.0 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 203 | Nome: Refil hidratante corpo Tododia Tamara e canela 400ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 39.0 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 253 | Nome: Tododia Macadmia Refil hidratante 400ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 56.4 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 2
+ID: 456 | Nome: Tododia Macadâmia hidratante 200ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 52.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 390 | Nome: Tododia Romã e Amendoas Glaceadas hidratante 400ml | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 75.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 256 | Nome: Tododia refil hidratante corporal noturno 400ml | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 56.4 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 407 | Nome: Creme Hidratante Desodorante Corporal Glamour 200ml | Marca: O Boticário | Esti
+lo: Corpo e Banho
+Preco: R$ 64.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 792 | Nome: Creme Hidratante Para Mãos Cuide-se Bem Nuvem 45g | Marca: O Boticário | Estilo
+: Corpo e Banho
+Preco: R$ 36.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 336 | Nome: Cuide-se Bem Nuvem Hidratante 200ml | Marca: O Boticário | Estilo: Corpo e Banh
+o
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 270 | Nome: Lily hidratante acetinado 250g | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 139.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 338 | Nome: Loção Desodorante Hidratante Corporal Cuide-se Bem Boa Noite 200ml | Marca: O B
+oticário | Estilo: Corpo e Banho
+Preco: R$ 52.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 340 | Nome: Loção Desodorante Hidratante Corporal Cuide-se Bem Deleite 400ml | Marca: O Bot
+icário | Estilo: Corpo e Banho
+Preco: R$ 72.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 337 | Nome: Loção Hidratante Desodorante Corporal Cuide-se Bem Pessegura 200ml | Marca: O B
+oticário | Estilo: Corpo e Banho
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 189 | Nome: Refil Creme Acetinado Hidratante Desodorante Corporal Lily Lumière 250g | Marca
+: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 29 of 56 --
+
+ID: 313 | Nome: Sensi Hidratante Pele Seca 400ml | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 171 | Nome: O.U.i Madeleine 862 - Crème Riche 200g | Marca: Oui-Original-Unique-Individuel
+| Estilo: Corpo e Banho
+Preco: R$ 169.0 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Kits de perfumes
+ID: 130 | Nome: Estojo Celebre Agora Masculino (Colonia 100ml + Shower Gel 100g) | Marca: O Bot
+icário | Estilo: Kits e Presentes
+Preco: R$ 119.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 132 | Nome: Estojo Nativa Spa Cereja Rouge (Body splash 200ml+ creme de mãos 50g) | Marca:
+O Boticário | Estilo: Kits e Presentes
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 149 | Nome: Kit Presente Celebre Agora Feminino (2 itens) | Marca: O Boticário | Estilo: Ki
+ts e Presentes
+Preco: R$ 119.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 656 | Nome: Kit Presente Floratta Red (4 itens) | Marca: O Boticário | Estilo: Kits e Prese
+ntes
+Preco: R$ 236.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Kits de tratamento
+ID: 205 | Nome: Renew Platinum Noite | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 8 | Nome: Argan Oil Siàge Reconstrói os Fios 60ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 71.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 166 | Nome: Máscara Capilar Siàge Reconstrói Os Fios 250g | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 59.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 167 | Nome: Máscara Repositora Siàge Expert Regeneração Pós Química 250g | Marca: Eudora |
+Estilo: Cabelo
+Preco: R$ 59.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 268 | Nome: Óleo Nutri Rosé Siàge 60ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 71.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 504 | Nome: Presente Natura Tododia Framboesa e Pimenta Vermelha (3 produtos) | Marca: Natu
+ra | Estilo: Corpo e Banho
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Kits e looks
+ID: 131 | Nome: Estojo Make Aviva | Marca: Jequiti | Estilo: Kits e Presentes
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 146 | Nome: Kit Colônia Cebolinha 25 ml + Estojo Sabonete Turma da Mônica 4x80g | Marca: Je
+quiti | Estilo: Kits e Presentes
+Preco: R$ 44.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 147 | Nome: Kit Colônia Mônica 25 ml + Estojo Sabonete Turma da Mônica 4x80g | Marca: Jequi
+
+-- 30 of 56 --
+
+ti | Estilo: Kits e Presentes
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 152 | Nome: Kit Sublime - Pais 2025 | Marca: Jequiti | Estilo: Kits e Presentes
+Preco: R$ 4.17 | Estoque: 1 | Validade: 2025-10-01 | Vendido: Nao | Qtd vendida: 0
+ID: 43 | Nome: CPV Sacola P | Marca: Natura | Estilo: Kits e Presentes
+Preco: R$ 7.9 | Estoque: 1 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 125 | Nome: Emabalagem de presente M Parabens | Marca: Natura | Estilo: Kits e Presentes
+Preco: R$ 7.0 | Estoque: 1 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 126 | Nome: Embalagem de presente P Parabens | Marca: Natura | Estilo: Kits e Presentes
+Preco: R$ 5.0 | Estoque: 1 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 127 | Nome: Envelope de presente | Marca: Natura | Estilo: Kits e Presentes
+Preco: R$ 5.0 | Estoque: 1 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 686 | Nome: Faber Castell Lápis jumbo 3 em 1 (lábios, sombra e blush) Vermelho | Marca: Que
+m Disse Berenice | Estilo: Make
+Preco: R$ 16.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Leave-in e Creme para Pentear
+ID: 153 | Nome: Leave-in Siàge Nutri Rosé 100ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 44.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Limpeza
+ID: 481 | Nome: Gel de Limpeza 6 em 1 | Marca: Avon | Estilo: Skincare
+Preco: R$ 17.99 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 761 | Nome: Gel de Limpeza Corporal Perfumado Mary Kay® - Maçã e Amêndoa 200g | Marca: Mary
+Kay | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Máscara
+ID: 351 | Nome: Máscara Capilar Concentrada Siàge Nutri Acid.Complex 250g | Marca: Eudora | Est
+ilo: Cabelo
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 354 | Nome: Máscara Capilar Siàge Cauterização dos Lisos 250g | Marca: Eudora | Estilo: Cab
+elo
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 293 | Nome: Máscara Capilar Siàge Nutri Rosé 250g | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 358 | Nome: Máscara Capilar Siàge Nutri Rosé 250g | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 627 | Nome: Máscara Repositora Siàge Expert Regeneração Pós Química 250g | Marca: Eudora |
+Estilo: Make
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 342 | Nome: Siàge Hair-Plastia Máscara Capilar 250g | Marca: Eudora | Estilo: Cabelo
+
+-- 31 of 56 --
+
+Preco: R$ 69.99 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 169 | Nome: Máscara olhos e sobrancelhas incolor Faces | Marca: Natura | Estilo: Make
+Preco: R$ 21.0 | Estoque: 1 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Mãos
+ID: 39 | Nome: CARE CREME PROTETOR PARA MÃOS LUVAS DE SILICONE ERVA DOCE | Marca: Avon | Estilo
+: Corpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 40 | Nome: CARE CREME PROTETOR PARA MÃOS LUVAS DE SILICONE ERVA DOCE E LAVANDA | Marca: Avo
+n | Estilo: Corpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 41 | Nome: CARE CREME PROTETOR PARA MÃOS LUVAS DE SILICONE original | Marca: Avon | Estilo:
+Corpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 2
+ID: 418 | Nome: Care Creme Protetor Para Mãos Luvas De Silicone | Marca: Avon | Estilo: Corpo e
+Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 417 | Nome: Care Creme Protetor Para Mãos Luvas De Silicone Erva Doce E Lavanda | Marca: Av
+on | Estilo: Corpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 416 | Nome: Luvas de Silicone | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 24.9 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 528 | Nome: Luvas de Silicone care 120g | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 24.99 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 527 | Nome: Luvas de Silicone care Macadâmia 75g | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 17.99 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 287 | Nome: Sensi Luva de Silicone para as mãos 40g | Marca: Jequiti | Estilo: Corpo e Banh
+o
+Preco: R$ 18.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 2
+ID: 507 | Nome: Creme Hidratante para as Mãos Ekos Castanha 40 g | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 41.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 450 | Nome: Creme Nutritivo para Mãos Tododia Macadâmia | Marca: Natura | Estilo: Corpo e B
+anho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 452 | Nome: Creme Nutritivo para as Mãos Cereja e Avelã Tododia 50ml | Marca: Natura | Esti
+lo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 75 | Nome: Creme de mãos Manga Rosa e Agua de coco 50ml | Marca: Natura | Estilo: Corpo e B
+anho
+Preco: R$ 36.9 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 76 | Nome: Creme de mãos noz peça e cacau 50ml | Marca: Natura | Estilo: Corpo e Banho
+
+-- 32 of 56 --
+
+Preco: R$ 20.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 77 | Nome: Creme de mãos tododia tamara e canela 50ml | Marca: Natura | Estilo: Corpo e Ban
+ho
+Preco: R$ 18.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 78 | Nome: Creme mãos Tododia Noz Pe?a e Cacau | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 79 | Nome: Creme mãos Tododia cereja e avelã | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 80 | Nome: Creme mãos Tododia cereja e avelã | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 81 | Nome: Creme mãos Tododia romã e flor de amora | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 506 | Nome: EKOS TUKUMA POLPA HIDRATANTE MAOS 40g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 508 | Nome: Ekkos Creme Hidratante para Mãos cacau 40g | Marca: Natura | Estilo: Corpo e Ba
+nho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 453 | Nome: SABONETE EM BARRA PURO VEGETAL NATURA TODO DIA CEREJA E AVELÃ | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 454 | Nome: Tododia Camomila e Lavanda caixa de sabonete 5x90g | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Olhos
+ID: 886 | Nome: Lapis Delineador Color Trend Preto Matte | Marca: Avon | Estilo: Make
+Preco: R$ 15.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 580 | Nome: Lapiseira Retrátil Para Sobrancelhas Marrom Claro Glam Definição Perfeita 0,35g
+| Marca: Eudora | Estilo: Make
+Preco: R$ 17.7 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 709 | Nome: Máscara De Cílios Turbo Dimension Eudora Make 10G | Marca: Eudora | Estilo: Mak
+e
+Preco: R$ 38.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 807 | Nome: Máscara de Cílios Turbo Eudora Make 10g | Marca: Eudora | Estilo: Make
+Preco: R$ 45.99 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 302 | Nome: Demaquilante para a Área dos Olhos Mary Kay® 110ml | Marca: Mary Kay | Estilo:
+Skincare
+Preco: R$ 96.9 | Estoque: 1 | Validade: 2027-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 637 | Nome: Lápis para Olhos Faces | Marca: Natura | Estilo: Make
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 690 | Nome: Lápis para olhos marrom Faces | Marca: Natura | Estilo: Make
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 33 of 56 --
+
+ID: 178 | Nome: Primer Blur Una 30ml | Marca: Natura | Estilo: Make
+Preco: R$ 58.0 | Estoque: 1 | Validade: 2026-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 259 | Nome: Una Lápis retrátil sobrancelhas castanho | Marca: Natura | Estilo: Make
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 687 | Nome: Faber Castell cx de lápis de olhos contém 4 unidades | Marca: Quem Disse Bereni
+ce | Estilo: Make
+Preco: R$ 56.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Perfumaria feminina
+ID: 274 | Nome: Bem me quer Primeiro Amor colônia feminina 25ml | Marca: Jequiti | Estilo: Perf
+umaria
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 284 | Nome: Bem me quer luar colônia feminina 25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 773 | Nome: Bem-Me-Quer Paradise Desodorante Colônia Feminina, 25 ml | Marca: Jequiti | Est
+ilo: Perfumaria
+Preco: R$ 39.9 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 774 | Nome: Bem-Me-Quer Primeiro Amor Desodorante Colônia Feminina, 25 ml | Marca: Jequiti
+| Estilo: Perfumaria
+Preco: R$ 39.9 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 289 | Nome: Deluxe colônia feminina 25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 36.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 288 | Nome: Florasense colônia feminina 25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 36.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 140 | Nome: Gkay Desodorante Colônia Feminina Jequiti, 75 ml | Marca: Jequiti | Estilo: Per
+fumaria
+Preco: R$ 66.0 | Estoque: 0 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 290 | Nome: Hello Kitty Estilosa colônia feminina infantil 25ml | Marca: Jequiti | Estilo:
+Perfumaria
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 303 | Nome: Mary Kay Garden Scent? Deo Parfum 50ml | Marca: Mary Kay | Estilo: Perfumaria
+Preco: R$ 105.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 61 | Nome: Colônia Kaiak Aero feminino 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 185.9 | Estoque: 1 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 63 | Nome: Colônia Luna Absoluta 75ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 100.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 491 | Nome: Deo Colônia Revelar 75 ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 199.9 | Estoque: 1 | Validade: 2029-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 396 | Nome: Ilía Secreto 50 ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 139.9 | Estoque: 0 | Validade: 2029-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 250 | Nome: Tododia CJ REG PERF CAJU | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 59.36 | Estoque: 0 | Validade: 2026-09-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 34 of 56 --
+
+ID: 314 | Nome: Ana Castela Body Splash Boiadeira 200ml | Marca: O Boticário | Estilo: Perfumar
+ia
+Preco: R$ 69.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 3
+ID: 28 | Nome: Body Splash Cuide-Se Bem Deleite 200ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 89.9 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 1
+ID: 29 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Nuvem 200ml | Marca: O Boticário |
+Estilo: Perfumaria
+Preco: R$ 89.9 | Estoque: 1 | Validade: 2026-09-21 | Vendido: Nao | Qtd vendida: 0
+ID: 30 | Nome: Body Splash Desodorante Colônia Cuide-se Bem Pessegura 200ml | Marca: O Boticári
+o | Estilo: Perfumaria
+Preco: R$ 89.9 | Estoque: 1 | Validade: 2026-09-21 | Vendido: Nao | Qtd vendida: 0
+ID: 272 | Nome: Celebre sua força feminino colônia 100ml | Marca: O Boticário | Estilo: Perfuma
+ria
+Preco: R$ 109.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 294 | Nome: Elysée Eau De Parfum 50ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 314.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 543 | Nome: Floratta Red Colônia 75ml - Feminino | Marca: O Boticário | Estilo: Corpo e Ban
+ho
+Preco: R$ 105.0 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 467 | Nome: Floratta Red Passion Eau De Parfum 75ml | Marca: O Boticário | Estilo: Perfumar
+ia
+Preco: R$ 157.44 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 3
+ID: 582 | Nome: Her Code Clímax Eau de Parfum 50ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 244.9 | Estoque: 0 | Validade: 2030-07-12 | Vendido: Sim | Qtd vendida: 2
+ID: 579 | Nome: Her Code Eau De Parfum 50ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 244.9 | Estoque: 1 | Validade: 2030-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 581 | Nome: Her Code Touch Eau De Parfum 50ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 244.9 | Estoque: 0 | Validade: 2030-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 154 | Nome: Liz Flora Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 106.16 | Estoque: 0 | Validade: 2026-09-21 | Vendido: Sim | Qtd vendida: 1
+Tipo: Perfumaria infantil
+ID: 42 | Nome: COLÔNIA PRINCESS ARIEL 150ML AVON | Marca: Avon | Estilo: Perfumaria
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 60 | Nome: Colônia Infantil Os Vingadores Marvel Avengers Meninos Avon 150ml | Marca: Avon
+| Estilo: Perfumaria
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 64 | Nome: Colônia Stitch | Marca: Avon | Estilo: Perfumaria
+Preco: R$ 19.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 124 | Nome: Disney encanto colonia 150ml | Marca: Avon | Estilo: Perfumaria
+Preco: R$ 29.99 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 38 | Nome: Buzz Toy Story Disney Desodorante Colônia Jequiti, 25ml | Marca: Jequiti | Estil
+
+-- 35 of 56 --
+
+o: Perfumaria
+Preco: R$ 23.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 280 | Nome: Candy Land Pipoca doce colônia 25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 330 | Nome: Cebolinha colônia 25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 3
+ID: 54 | Nome: Chico Bento Desodorante Colônia, 25 ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 148 | Nome: Kit MMBB(Papai bb) | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 90.0 | Estoque: 0 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 513 | Nome: Mamãe e Bebê Água de Colônia 100 ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 59.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 747 | Nome: Água de Colônia Mamãe e Bebê Flor de Laranjeira 100 ml | Marca: Natura | Estilo
+: Perfumaria
+Preco: R$ 106.9 | Estoque: 0 | Validade: 2027-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 430 | Nome: Água de Colônia Mamãe e Bebê Sem Álcool Flor de Laranjeira 100ml | Marca: Natur
+a | Estilo: Perfumaria
+Preco: R$ 73.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 523 | Nome: Água de Colônia Mamãe e Bebê Sem Álcool Flor de Laranjeira 100ml | Marca: Natur
+a | Estilo: Perfumaria
+Preco: R$ 106.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 264 | Nome: Água de colônia MMBB | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 58.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 2
+ID: 265 | Nome: Água de colônia MMBB 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 58.0 | Estoque: 1 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 578 | Nome: Eau De Parfum Lily Miniatura 30ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 184.9 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 332 | Nome: Sophie Like Colônia Infantil 100ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 109.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Perfumaria masculina
+ID: 400 | Nome: Exclusive In Black Deo Colônia | Marca: Avon | Estilo: Perfumaria
+Preco: R$ 74.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 2
+ID: 164 | Nome: Mmbb Sabonete Em Barra 5X100G | Marca: Eudora | Estilo: Perfumaria
+Preco: R$ 0.01 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 679 | Nome: Colônia Carlinhos Maia Stories masculino 25ml | Marca: Jequiti | Estilo: Perfum
+aria
+Preco: R$ 19.0 | Estoque: 0 | Validade: 2026-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 775 | Nome: Desodorante Colônia Fabio Jr Legacy, 25Ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 49.9 | Estoque: 2 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 96 | Nome: Desodorante Colônia Masculina Carlinhos Maia Stories, 25ml | Marca: Jequiti | Es
+
+-- 36 of 56 --
+
+tilo: Perfumaria
+Preco: R$ 19.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 282 | Nome: Estojo Portiolli 2x25ml | Marca: Jequiti | Estilo: Perfumaria
+Preco: R$ 59.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 772 | Nome: Portiolli Gold Desodorante Colônia Masculina Jequiti, 25 ml | Marca: Jequiti |
+Estilo: Perfumaria
+Preco: R$ 49.9 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 283 | Nome: Portiolli gold intenso colônia masculina 90ml | Marca: Jequiti | Estilo: Perfum
+aria
+Preco: R$ 99.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 281 | Nome: Royal Madeira Shadid colônia masculina 75ml | Marca: Jequiti | Estilo: Perfumar
+ia
+Preco: R$ 109.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 58 | Nome: Colônia Homem Dom 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 229.9 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 59 | Nome: Colônia Humor On-line 75ml Masculino | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 91.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 62 | Nome: Colônia Kaiak Extremo 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 185.9 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 65 | Nome: Colônia humor a rigor masculino 75ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 85.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 693 | Nome: Homem Dom deo parfum masculino 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 168.0 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 663 | Nome: Kaiak Tradicional Colônia 100ml | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 189.9 | Estoque: 0 | Validade: 2029-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 462 | Nome: Kaiak Urbe Masculino 100 ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 189.9 | Estoque: 1 | Validade: 2027-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 159 | Nome: Lápis para olhos marrom Faces | Marca: Natura | Estilo: Perfumaria
+Preco: R$ 18.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 494 | Nome: Refil Desodorante Corporal Kaiak Masculino 100 ml | Marca: Natura | Estilo: Per
+fumaria
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2030-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 492 | Nome: Refil Desodorante Corporal Kaiak Oceano Masculino 100 ml | Marca: Natura | Esti
+lo: Perfumaria
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2030-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 493 | Nome: Refil Desodorante Corporal Natura Homem 100 ml | Marca: Natura | Estilo: Perfum
+aria
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2029-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 432 | Nome: Refil Desodorante Corporal Sr. N | Marca: Natura | Estilo: Skincare
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2029-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 195 | Nome: Refil Essencial Ato Masculino 100 ml | Marca: Natura | Estilo: Perfumaria
+
+-- 37 of 56 --
+
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2029-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 312 | Nome: Botica 214 African Sunrise Eau De Parfum Masculino 90ml | Marca: O Boticário |
+Estilo: Perfumaria
+Preco: R$ 137.0 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 584 | Nome: Botica 214 Sevilla Dorada Eau de Parfum Fougére Aromático 90ml | Marca: O Botic
+ário | Estilo: Perfumaria
+Preco: R$ 234.9 | Estoque: 0 | Validade: 2029-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 271 | Nome: Celebre sua força masculino colônia 100ml | Marca: O Boticário | Estilo: Perfum
+aria
+Preco: R$ 109.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 408 | Nome: Coffee Man Desodorante Colônia 100ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 209.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 412 | Nome: Zaad Intense Eau De Parfum 95ml | Marca: O Boticário | Estilo: Perfumaria
+Preco: R$ 334.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Presentes
+ID: 326 | Nome: Avengers 2 em 1 Shampoo e Condicionador | Marca: Avon | Estilo: Cabelo
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2026-01-07 | Vendido: Nao | Qtd vendida: 0
+ID: 173 | Nome: Pano de Copa Disney | Marca: Avon | Estilo: Acessórios de Casa
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Nao | Qtd vendida: 0
+ID: 174 | Nome: Pano de Copa Disney amarelo | Marca: Avon | Estilo: Acessórios de Casa
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2026-10-25 | Vendido: Sim | Qtd vendida: 1
+ID: 316 | Nome: Pano de copa Disney Cinza | Marca: Avon | Estilo: Acessórios de Casa
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2026-01-07 | Vendido: Sim | Qtd vendida: 1
+ID: 317 | Nome: Pano de copa Disney Vermelho | Marca: Avon | Estilo: Acessórios de Casa
+Preco: R$ 14.99 | Estoque: 0 | Validade: 2026-01-07 | Vendido: Sim | Qtd vendida: 1
+ID: 594 | Nome: Natura Saboneteira Crer Para Ver - Saboneteira Redonda em Material 100% Recicla
+do | Marca: Natura | Estilo: Kits e Presentes
+Preco: R$ 29.9 | Estoque: 4 | Validade: 2027-04-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Protetor solar
+ID: 179 | Nome: Protetor Solar Rosto Controle de Brilho FPS 50 | Marca: Avon | Estilo: Solar
+Preco: R$ 51.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 576 | Nome: Renew Solar Fps 50 Cor Média 3.0 40g | Marca: Avon | Estilo: Make
+Preco: R$ 59.99 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 398 | Nome: Renew Solar Fps 50 Cor Média Clara 2.0 | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 57.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 530 | Nome: Renew Solar com Ácido Hialurônico Fps 50 Cor Média 3.0 40g | Marca: Avon | Esti
+lo: Corpo e Banho
+Preco: R$ 55.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 489 | Nome: Facial FPS 60 FPUVA 20 Fotoequilíbrio 50 g | Marca: Natura | Estilo: Cuidados c
+om o Corpo
+
+-- 38 of 56 --
+
+Preco: R$ 64.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 587 | Nome: Protetor Solar Facial FPS 60/FPUVA 20 Fotoequilíbrio | Marca: Natura | Estilo:
+Skincare
+Preco: R$ 69.9 | Estoque: 0 | Validade: 2027-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 183 | Nome: Protetor solar fotoequilíbrio facial 60 fps 50g | Marca: Natura | Estilo: Solar
+Preco: R$ 105.9 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Protetor solar corporal
+ID: 482 | Nome: Protetor Solar Rosto Controle de Brilho FPS 50 40g toque seco | Marca: Avon | E
+stilo: Corpo e Banho
+Preco: R$ 34.99 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 136 | Nome: Fotoequilibrio loção protetora fps30 200ml | Marca: Natura | Estilo: Solar
+Preco: R$ 99.9 | Estoque: 0 | Validade: 2026-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 180 | Nome: Protetor solar facial 30 fps fotoequilíbrio 50g | Marca: Natura | Estilo: Solar
+Preco: R$ 48.0 | Estoque: 1 | Validade: 2026-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 181 | Nome: Protetor solar facial fotoequilibrio fps30 50g | Marca: Natura | Estilo: Solar
+Preco: R$ 48.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Protetor solar facial
+ID: 708 | Nome: Protetor Solar Facial Antioleosidade FPS30 BOTI.SUN Acqua Fluido 40ml | Marca:
+O Boticário | Estilo: Make
+Preco: R$ 54.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Pés
+ID: 286 | Nome: Sensi Luva de Silicone para as pés 40g | Marca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 2
+Tipo: Rosto
+ID: 484 | Nome: AVON CARE CREME FACIAL ANTISSINAIS 6 EM 1 100g | Marca: Avon | Estilo: Make
+Preco: R$ 27.99 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 2
+ID: 607 | Nome: AVON COLOR TREND DELINEADOR LÍQUIDO MARROM | Marca: Avon | Estilo: Make
+Preco: R$ 26.0 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 642 | Nome: Care Máscara de Limpeza Facial Pepino e Aloe Vera 75 g | Marca: Avon | Estilo:
+Skincare
+Preco: R$ 24.99 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 56 | Nome: Color Trend 212N Matte Real Pó Compacto Facial | Marca: Avon | Estilo: Make
+Preco: R$ 22.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 704 | Nome: Lápis de sobrancelhas escuro | Marca: Avon | Estilo: Make
+Preco: R$ 12.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 162 | Nome: Micro Fine Delineador Retrátil para Sobrancelhas | Marca: Avon | Estilo: Make
+Preco: R$ 35.99 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 170 | Nome: Máscara para Cílios Avon Super à Prova D'Água | Marca: Avon | Estilo: Make
+Preco: R$ 39.99 | Estoque: 0 | Validade: 2027-07-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 39 of 56 --
+
+ID: 710 | Nome: Renew Gel De Limpeza 30g | Marca: Avon | Estilo: Skincare
+Preco: R$ 0.01 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 711 | Nome: Renew Gel De Limpeza 30g | Marca: Avon | Estilo: Skincare
+Preco: R$ 15.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 2
+ID: 168 | Nome: Máscara de Cílios Ultra Resistente Turbo SOUL 10g | Marca: Eudora | Estilo: Maq
+uiage
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 776 | Nome: Gel de sobrancelha Fix Brow Aviva, 4 ml | Marca: Jequiti | Estilo: Make
+Preco: R$ 39.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 681 | Nome: Pó Multiefeitos Aviva Arraso 10G | Marca: Jequiti | Estilo: Make
+Preco: R$ 36.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 184 | Nome: Pó Multiefeitos Jequiti Aviva Patricia Abravanel Arraso, 12g | Marca: Jequiti |
+Estilo: Make
+Preco: R$ 36.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 300 | Nome: Base 3D BeigeC120 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 79.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 299 | Nome: Base 3D BeigeW100 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 79.9 | Estoque: 2 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 301 | Nome: Base 3D BronzeC180 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 79.9 | Estoque: 1 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 297 | Nome: Base 3D Ivory w130 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 79.9 | Estoque: 2 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 298 | Nome: Base 3D Ivory w150 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 79.9 | Estoque: 2 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 684 | Nome: Base 3D Timewise Beige C140 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 44.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 683 | Nome: Base 3D Timewise Beige C220 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 44.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 682 | Nome: Base 3D Timewise Beige N190 | Marca: Mary Kay | Estilo: Make
+Preco: R$ 44.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 738 | Nome: Base TimeWise 3D® 30ml Beige C120 (Matte) | Marca: Mary Kay | Estilo: Make
+Preco: R$ 82.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 737 | Nome: Base TimeWise 3D® 30ml Bronze C160 (Matte) | Marca: Mary Kay | Estilo: Make
+Preco: R$ 82.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 736 | Nome: Base TimeWise 3D® 30ml Bronze C180 (Matte) | Marca: Mary Kay | Estilo: Make
+Preco: R$ 82.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 702 | Nome: Base liquida matte Timewise® 3D Mary kay - 30ml (Bronze C160) | Marca: Mary Kay
+| Estilo: Make
+Preco: R$ 82.9 | Estoque: 0 | Validade: 2026-08-12 | Vendido: Sim | Qtd vendida: 4
+ID: 362 | Nome: Gel de Recuperação Noturna TimeWise® 29g | Marca: Mary Kay | Estilo: Skincare
+Preco: R$ 131.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 40 of 56 --
+
+ID: 740 | Nome: Lenços de Papel Antibrilho da Pele Mary Kay® | Marca: Mary Kay | Estilo: Make
+Preco: R$ 36.9 | Estoque: 1 | Validade: 2027-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 361 | Nome: Loção Diurna FPS 30 TimeWise® 29g | Marca: Mary Kay | Estilo: Skincare
+Preco: R$ 82.9 | Estoque: 2 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 739 | Nome: Máscara para Cílios Lash Intensity? 9g | Marca: Mary Kay | Estilo: Make
+Preco: R$ 89.9 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 27 | Nome: Batom Una laranja 8C | Marca: Natura | Estilo: Maquiage
+Preco: R$ 27.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 676 | Nome: Corretivo Checkmatte Faces | Marca: Natura | Estilo: Make
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2027-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 133 | Nome: Faces po compacto matte claro refil | Marca: Natura | Estilo: Make
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 675 | Nome: Natura Faces Pó Compacto Refil Matte Claro 20 | Marca: Natura | Estilo: Make
+Preco: R$ 49.9 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 182 | Nome: Protetor solar fotoequilibrio 30 facial 50g gel | Marca: Natura | Estilo: Solar
+Preco: R$ 48.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 685 | Nome: Intense POP Base Liquida Camuflagem Cor 300 20ml | Marca: O Boticário | Estilo:
+Make
+Preco: R$ 19.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Sabonete em barra
+ID: 55 | Nome: Clearskin Sabonete De Limpeza Extraforte Com Ácido Salicílico | Marca: Avon | Es
+tilo: Corpo e Banho
+Preco: R$ 17.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 360 | Nome: Kit Sabonetes em Barra Vegetal Perfumado Instance Cereja e Amêndoas 4x80g | Mar
+ca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 32.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 752 | Nome: Sabonete Em Barra Puro Vegetal Tododia Capim Limão e Hortelã 5 un de 90 g cada
+| Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 759 | Nome: Sabonete Vegetal em Barra Instance Morango Irresistível 80g (4 unidades) | Marc
+a: Eudora | Estilo: Corpo e Banho
+Preco: R$ 32.99 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 699 | Nome: Caixa de sabonete Rebeca Abravanel 3x50g | Marca: Jequiti | Estilo: Corpo e Ban
+ho
+Preco: R$ 13.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 771 | Nome: Cx. C/5 Sabonete em barra Sensi Man 80ml | Marca: Jequiti | Estilo: Corpo e Ban
+ho
+Preco: R$ 29.9 | Estoque: 1 | Validade: 2027-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 210 | Nome: Sabonete Hidratante Em Barra Sensi Men, 5X90G | Marca: Jequiti | Estilo: Corpo
+e Banho
+Preco: R$ 27.9 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 41 of 56 --
+
+ID: 550 | Nome: Sabonete Hidratante em Barra Algodão Sensi | Marca: Jequiti | Estilo: Corpo e B
+anho
+Preco: R$ 5.9 | Estoque: 0 | Validade: 2027-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 552 | Nome: Sabonete Hidratante em Barra Antibacteriano Verbena Sensi | Marca: Jequiti | Es
+tilo: Corpo e Banho
+Preco: R$ 6.9 | Estoque: 1 | Validade: 2027-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 211 | Nome: Sabonete Hidratante em Barra Jequiti Sensi Flores, 5x80g | Marca: Jequiti | Est
+ilo: Corpo e Banho
+Preco: R$ 18.0 | Estoque: 0 | Validade: 2026-09-29 | Vendido: Sim | Qtd vendida: 1
+ID: 541 | Nome: Sabonete Hidratante em Barra Leite de Amêndoas | Marca: Jequiti | Estilo: Corpo
+e Banho
+Preco: R$ 5.29 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Sim | Qtd vendida: 2
+ID: 437 | Nome: Sabonete Hidratante em Barra Leite de Amêndoas Sensi | Marca: Jequiti | Estilo:
+Corpo e Banho
+Preco: R$ 27.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 3
+ID: 551 | Nome: Sabonete Hidratante em Barra Leite de Amêndoas Sensi | Marca: Jequiti | Estilo:
+Corpo e Banho
+Preco: R$ 5.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 617 | Nome: Sabonete Hidratante em Barra Leite de Amêndoas Sensi | Marca: Jequiti | Estilo:
+Corpo e Banho
+Preco: R$ 4.5 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 2
+ID: 873 | Nome: Sabonete Hidratante em Barra Leite de Amêndoas Sensi | Marca: Jequiti | Estilo:
+Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 438 | Nome: Sabonete Hidratante em Barra Sensi Algodão, 5x80g | Marca: Jequiti | Estilo: Co
+rpo e Banho
+Preco: R$ 27.9 | Estoque: 1 | Validade: 2027-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 705 | Nome: Sabonete Hidratante em Barra Sensi Algodão, 5x80g | Marca: Jequiti | Estilo: Co
+rpo e Banho
+Preco: R$ 31.9 | Estoque: 0 | Validade: 2027-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 212 | Nome: Sabonete Hidratante em Barra Sensi Men, 80 g | Marca: Jequiti | Estilo: Corpo e
+Banho
+Preco: R$ 4.99 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Sim | Qtd vendida: 3
+ID: 213 | Nome: Sabonete Hidratante em barra Rebeca Abravanel, 3x50g | Marca: Jequiti | Estilo:
+Corpo e Banho
+Preco: R$ 13.0 | Estoque: 1 | Validade: 2026-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 697 | Nome: Sensi Aloe Vera sabonete em barra 80g | Marca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 4.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 698 | Nome: Sensi Antibacteriano sabonete em barra 80g | Marca: Jequiti | Estilo: Corpo e B
+anho
+Preco: R$ 5.9 | Estoque: 0 | Validade: 2027-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 327 | Nome: Sensi Caixa de sabonete Leite de Amêndoas 5x80g | Marca: Jequiti | Estilo: Corp
+
+-- 42 of 56 --
+
+o e Banho
+Preco: R$ 29.99 | Estoque: 1 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 694 | Nome: Sensi Men Caixa de sabonete 5x90g | Marca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 21.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 331 | Nome: Sensi caixa de sabonete sortido festa 5x80g | Marca: Jequiti | Estilo: Corpo e
+Banho
+Preco: R$ 31.9 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 447 | Nome: Acerola e Hibisco Tododia caixa de sabonete 5x90g | Marca: Natura | Estilo: Cor
+po e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 435 | Nome: Caixa De Sabonete Macadâmia 5 Unidades De 90g | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 44 | Nome: Caixa de Sabonetes em Barra 2 em 1 Corpo e Barba Natura Homem | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 35.9 | Estoque: 0 | Validade: 2025-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 45 | Nome: Caixa de Sabonetes em Barra 2 em 1 Corpo e Barba Natura Homem 3x110g | Marca: Na
+tura | Estilo: Corpo e Banho
+Preco: R$ 35.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 83 | Nome: Cx de sabonete MMBB 5x100g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 32.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 429 | Nome: Natura Mmbb Sabonete Barra Flor De Laranjeira Saboneteira | Marca: Natura | Est
+ilo: Corpo e Banho
+Preco: R$ 22.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 465 | Nome: Presente Natura Luna Sabonete | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 370 | Nome: Presente Natura Tododia Sabonetes Gratidão (1 caixa) | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 2
+ID: 514 | Nome: SABONETE EM BARRA PURO VEGETAL NATURA TODO DIA CEREJA E AVELÃ CAIXA COM 5 UNIDA
+DES 90g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 423 | Nome: SABONETE EM BARRA PURO VEGETAL NATURA TODO DIA CEREJA E AVELÃ CAIXA COM 5 UNIDA
+DES 90g/cada | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 424 | Nome: Sabonete Em Barra Natura Avelã E Cassis | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 477 | Nome: Sabonete Em Barra Natura Tododia Chá De Camomila E Lavanda 90 G X 5 Unidades |
+Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 466 | Nome: Sabonete Em Barra Puro Vegetal Tododia Capim Limão e Hortelã | Marca: Natura |
+
+-- 43 of 56 --
+
+Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 824 | Nome: Sabonete Em Barra Puro Vegetal Tododia Capim Limão e Hortelã 5 un de 90 g cada
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 433 | Nome: Sabonete Mamãe e Bebê | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 51.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 472 | Nome: Sabonete Puro Vegetal Cremoso Erva Doce 3 un de 90 g | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 24.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 4
+ID: 214 | Nome: Sabonete Puro Vegetal Cremoso Erva Doce 3x90g | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 30.4 | Estoque: 2 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 596 | Nome: Sabonete Sortido Puro Vegetal Erva Doce 4 un de 90 g cada | Marca: Natura | Est
+ilo: Corpo e Banho
+Preco: R$ 40.9 | Estoque: 3 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 215 | Nome: Sabonete Sortido Puro Vegetal Erva Doce 4x90g | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 38.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 449 | Nome: Sabonete em Barra Corpo e Barba Kaiak | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 28.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 601 | Nome: Sabonete em Barra Corpo e Barba Kaiak 2 un de 90 g cada | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 28.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 605 | Nome: Sabonete em Barra Cremoso e Refrescante Natura Homem - 3un de 110g cada | Marca
+: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 855 | Nome: Sabonete em Barra Esfoliante Tododia Energia 2 un de 90 g | Marca: Natura | Est
+ilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 501 | Nome: Sabonete em Barra Esfoliante Tododia Energia gengibre e tangerina 2 un de 90 g
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 518 | Nome: Sabonete em Barra Kaiak Oceano Feminino 2 un de 90 g | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 382 | Nome: Sabonete em Barra Natura Homem | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 219 | Nome: Sabonete em Barra Puro Vegetal Ameixa e Flor de Baunilha Tododia - 5x90g | Marc
+a: Natura | Estilo: Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 44 of 56 --
+
+ID: 505 | Nome: Sabonete em Barra Puro Vegetal Sortidos Tododia 5 x 90 g | Marca: Natura | Esti
+lo: Corpo e Banho
+Preco: R$ 42.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 220 | Nome: Sabonete em Barra Puro Vegetal Sortidos Tododia 5x90g | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 41.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 436 | Nome: Sabonete em Barra Puro Vegetal Tododia Acerola e Hibisco | Marca: Natura | Esti
+lo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 606 | Nome: Sabonete em Barra Puro Vegetal Tododia Acerola e Hibisco 5 un de 90 g | Marca:
+Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 375 | Nome: Sabonete em Barra Puro Vegetal Tododia Alecrim e Sálvia | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 392 | Nome: Sabonete em Barra Puro Vegetal Tododia Alecrim e Sálvia | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 495 | Nome: Sabonete em Barra Puro Vegetal Tododia Alecrim e Sálvia 5 un de 90 g | Marca: N
+atura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 821 | Nome: Sabonete em Barra Puro Vegetal Tododia Alecrim e Sálvia 5 un de 90 g cada | Mar
+ca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 376 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 394 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 434 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 464 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 496 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão 5 un de 90 g | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 497 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão 5 un de 90 g | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 45 of 56 --
+
+ID: 599 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão 5 un de 90 g cada | Marca: Natur
+a | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 825 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão 5 un de 90 g cada | Marca: Natur
+a | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 851 | Nome: Sabonete em Barra Puro Vegetal Tododia Algodão 5 un de 90 g cada | Marca: Natur
+a | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 431 | Nome: Sabonete em Barra Puro Vegetal Tododia Amora Vermelha e Jabuticaba | Marca: Nat
+ura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2027-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 569 | Nome: Sabonete em Barra Puro Vegetal Tododia Amora e Flor de Pêssego | Marca: Natura
+| Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 221 | Nome: Sabonete em Barra Puro Vegetal Tododia Cereja Negra e Praliné - 5x90g | Marca:
+Natura | Estilo: Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 822 | Nome: Sabonete em Barra Puro Vegetal Tododia Cereja Negra e Praliné 5 un de 90 g | Ma
+rca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 222 | Nome: Sabonete em Barra Puro Vegetal Tododia Cereja e Avelã - 5x90g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 674 | Nome: Sabonete em Barra Puro Vegetal Tododia Cereja e Avelã 5 un de 90 g | Marca: Nat
+ura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 2
+ID: 751 | Nome: Sabonete em Barra Puro Vegetal Tododia Cereja e Avelã 5 un de 90 g | Marca: Nat
+ura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 571 | Nome: Sabonete em Barra Puro Vegetal Tododia Energia 5 un de 90 g | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 754 | Nome: Sabonete em Barra Puro Vegetal Tododia Energia 5 un de 90 g | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 223 | Nome: Sabonete em Barra Puro Vegetal Tododia Energia gengibre | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2025-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 502 | Nome: Sabonete em Barra Puro Vegetal Tododia Energia gengibre e tangerina 5 un de 90
+g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 46 of 56 --
+
+ID: 603 | Nome: Sabonete em Barra Puro Vegetal Tododia Jambo Rosa e Flor de Caju 5 un de 90 g |
+Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 458 | Nome: Sabonete em Barra Puro Vegetal Tododia Limão Siciliano e Flor de Gardênia | Mar
+ca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 476 | Nome: Sabonete em Barra Puro Vegetal Tododia Limão Siciliano e Flor de Gardênia | Mar
+ca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 820 | Nome: Sabonete em Barra Puro Vegetal Tododia Limão Siciliano e Flor de Gardênia | Mar
+ca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 224 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 30.5 | Estoque: 0 | Validade: 2025-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 451 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 15.0 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 570 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 744 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia 2 un de 90 g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 0 | Validade: 2027-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 479 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia 5 un de 90 g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 741 | Nome: Sabonete em Barra Puro Vegetal Tododia Macadâmia 5 un de 90 g cada | Marca: Nat
+ura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 448 | Nome: Sabonete em Barra Puro Vegetal Tododia Manga Rosa e Água de Coco | Marca: Natur
+a | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 225 | Nome: Sabonete em Barra Puro Vegetal Tododia Manga Rosa e Água de Coco (5 unidades) |
+Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 30.5 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 823 | Nome: Sabonete em Barra Puro Vegetal Tododia Manga Rosa e Água de Coco 5 un de 90 g |
+Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 845 | Nome: Sabonete em Barra Puro Vegetal Tododia Maçã Caramelada e Baunilha 5 un de 90 g
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 47 of 56 --
+
+ID: 870 | Nome: Sabonete em Barra Puro Vegetal Tododia Maçã Caramelada e Baunilha 5 un de 90 g
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 425 | Nome: Sabonete em Barra Puro Vegetal Tododia Noz Pecã e Cacau | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 426 | Nome: Sabonete em Barra Puro Vegetal Tododia Noz Pecã e Cacau | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 427 | Nome: Sabonete em Barra Puro Vegetal Tododia Noz Pecã e Cacau | Marca: Natura | Estil
+o: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 369 | Nome: Sabonete em Barra Puro Vegetal Tododia Romã e Flor de Amora | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 395 | Nome: Sabonete em Barra Puro Vegetal Tododia Romã e Flor de Amora | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 850 | Nome: Sabonete em Barra Puro Vegetal Tododia Romã e Flor de Amora 5 un de 90 g | Marc
+a: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 428 | Nome: Sabonete em Barra Puro Vegetal Tododia Tâmara e Canela | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 672 | Nome: Sabonete em Barra Puro Vegetal Tododia Tâmara e Canela 5 un de 90 g cada | Marc
+a: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 226 | Nome: Sabonete em Barra Puro Vegetal Tododia Tâmara e Canela 5x90g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 368 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 374 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 393 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 420 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 421 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 422 | Nome: Sabonete em Barra Tododia Todanoite | Marca: Natura | Estilo: Corpo e Banho
+
+-- 48 of 56 --
+
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 503 | Nome: Sabonete em Barra Tododia Todanoite 5 un de 90 g | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 568 | Nome: Sabonete em Barra Tododia Todanoite 5 un de 90 g | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 817 | Nome: Sabonete em Barra Tododia Todanoite 5 un de 90 g | Marca: Natura | Estilo: Corp
+o e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 228 | Nome: Sabonete perfumado 90g Feliz Dia | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 9.0 | Estoque: 0 | Validade: 2026-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 229 | Nome: Sabonete perfumado Biogradia Inspire 90g | Marca: Natura | Estilo: Corpo e Banh
+o
+Preco: R$ 8.0 | Estoque: 0 | Validade: 2026-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 230 | Nome: Sabonete perfumado Essencial 110g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 8.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 231 | Nome: Sabonete perfumado Essencial Exclusivo 110g | Marca: Natura | Estilo: Corpo e B
+anho
+Preco: R$ 8.0 | Estoque: 0 | Validade: 2026-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 232 | Nome: Sabonete perfumado Essencial Supreme 110g | Marca: Natura | Estilo: Corpo e Ban
+ho
+Preco: R$ 10.0 | Estoque: 0 | Validade: 2025-09-18 | Vendido: Nao | Qtd vendida: 0
+ID: 233 | Nome: Sabonete perfumado Essencial Supreme feminino | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 10.0 | Estoque: 0 | Validade: 2026-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 665 | Nome: Sabonetes em Barra Natura TodoDia Algodão 5x90g | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 386 | Nome: Sabonetes em Barra Puro Vegetal Tododia Algodão | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 19.9 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 811 | Nome: Sabonetes em Barra Puro Vegetal Tododia Algodão 2 un de 90 g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 20.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 391 | Nome: Sabonetes em Barra Puro Vegetal Tododia Romã e Amendôas Glaceadas (5 unidades)
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 511 | Nome: Sabonetes em Barra Puro Vegetal Tododia Romã e Amendôas Glaceadas 5 un de 90 g
+| Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 49 of 56 --
+
+ID: 756 | Nome: Tododia Camomila e Lavanda caixa de sabonete 2x90g | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 20.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 459 | Nome: Tododia Camomila e Lavanda caixa de sabonete 5x90g | Marca: Natura | Estilo: Co
+rpo e Banho
+Preco: R$ 34.9 | Estoque: 2 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 478 | Nome: Tododia Flor de Gengibre e Tangerina Caixa de sabonete 5x90g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 34.9 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 252 | Nome: Tododia Maca do amor caixa de sabonete 5x90g | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 755 | Nome: Tododia Macadamia caixa de sabonete 2x90g | Marca: Natura | Estilo: Corpo e Ban
+ho
+Preco: R$ 20.9 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 480 | Nome: Tododia Noite de Verão Caixa de sabonete 5x90g | Marca: Natura | Estilo: Corpo
+e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 371 | Nome: Tododia Sabonete Celebra la Vida, Kit de Sabonetes Perfumados em Barra, Edição
+Especial com Caixa Decorativa Vermelha e Dourada | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 2
+ID: 372 | Nome: Tododia Sabonete Celebra la Vida, Kit de Sabonetes Perfumados em Barra, Edição
+Especial com Caixa Decorativa Vermelha e Dourada | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 373 | Nome: Tododia Sabonete Celebra la Vida, Kit de Sabonetes Perfumados em Barra, Edição
+Especial com Caixa Decorativa Vermelha e Dourada | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 37.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 254 | Nome: Tododia caixa de sabonete barra noturno 5x90g | Marca: Natura | Estilo: Corpo e
+Banho
+Preco: R$ 33.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 261 | Nome: ekos sabonetes em barra maracuja natureza dos sonhos caixa de sabonete 4x100g |
+Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 558 | Nome: sabonete para barbear 90g sr.n | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 14.9 | Estoque: 0 | Validade: 2027-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 559 | Nome: sabonete unitário Homem 110g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 14.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 560 | Nome: sabonete unitário Humor a rigor 90G | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 14.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 262 | Nome: tododia caixa de sabonete em barra camomila e lavanda 2x90g | Marca: Natura | E
+stilo: Corpo e Banho
+Preco: R$ 19.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 50 of 56 --
+
+ID: 263 | Nome: tododia caixa de sabonete em barra gengibre e tangerina 2x90g | Marca: Natura |
+Estilo: Corpo e Banho
+Preco: R$ 19.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 46 | Nome: Caixa de sabonete em barra Nuvem 2x80g | Marca: O Boticário | Estilo: Corpo e Ba
+nho
+Preco: R$ 22.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 47 | Nome: Caixa de sabonete em barra Pessegura 4x80g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 35.9 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 48 | Nome: Caixa de sabonete em barra Show de Banho 2x80g | Marca: O Boticário | Estilo: Co
+rpo e Banho
+Preco: R$ 22.9 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 82 | Nome: Cuide-se Bem Deleite Sabonete Em Barra O Boticário 2x80g | Marca: O Boticário |
+Estilo: Corpo e Banho
+Preco: R$ 35.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 2
+ID: 150 | Nome: Kit Sabonete em Barra Cuide-se Bem Show de Banho (2 itens) | Marca: O Boticário
+| Estilo: Corpo e Banho
+Preco: R$ 22.9 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 151 | Nome: Kit Sabonetes Perfumados Boticollection 5x80g | Marca: O Boticário | Estilo: Co
+rpo e Banho
+Preco: R$ 49.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 791 | Nome: Kit Sabonetes Sortidos Cuide-se Bem Nuvem de Alegria 4x80g | Marca: O Boticário
+| Estilo: Corpo e Banho
+Preco: R$ 36.9 | Estoque: 1 | Validade: 2029-03-12 | Vendido: Nao | Qtd vendida: 0
+ID: 209 | Nome: Sabonete Em Barra Cuide-se Bem Nuvem 2x80g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 22.9 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Nao | Qtd vendida: 0
+ID: 621 | Nome: Sabonete Em Barra Cuide-se Bem Nuvem 2x80g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 23.9 | Estoque: 0 | Validade: 2027-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 785 | Nome: Sabonete Em Barra Cuide-se Bem Nuvem 2x80g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 216 | Nome: Sabonete em Barra Clash 2x80g | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 27.9 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 633 | Nome: Sabonete em Barra Clash 2x80g | Marca: O Boticário | Estilo: Corpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 217 | Nome: Sabonete em Barra Cuide-se Bem Boa Noite 2x80g | Marca: O Boticário | Estilo: C
+orpo e Banho
+Preco: R$ 22.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 218 | Nome: Sabonete em Barra Nativa Spa Ameixa Dourada 2x90g | Marca: O Boticário | Estilo
+: Corpo e Banho
+
+-- 51 of 56 --
+
+Preco: R$ 28.9 | Estoque: 0 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 767 | Nome: Sabonete em Barra Perfumado Lily 2x90g | Marca: O Boticário | Estilo: Corpo e B
+anho
+Preco: R$ 54.9 | Estoque: 0 | Validade: 2029-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 793 | Nome: Sabonete em Barra Perfumado Lily 2x90g | Marca: O Boticário | Estilo: Corpo e B
+anho
+Preco: R$ 54.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 410 | Nome: Sabonetes Cuide-se Bem Rosa e Algodão 2x80g | Marca: O Boticário | Estilo: Corp
+o e Banho
+Preco: R$ 23.9 | Estoque: 1 | Validade: 2028-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 635 | Nome: Sabonetes Em Barra Cuide-se Bem Deleite 2x90g | Marca: O Boticário | Estilo: Co
+rpo e Banho
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 657 | Nome: Sabonetes Em Barra Cuide-se Bem Deleite 2x90g | Marca: O Boticário | Estilo: Co
+rpo e Banho
+Preco: R$ 29.9 | Estoque: 2 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+ID: 636 | Nome: Trio Sabonetes em Barra Nativa SPA Flores 3x90g | Marca: O Boticário | Estilo:
+Corpo e Banho
+Preco: R$ 64.9 | Estoque: 1 | Validade: 2029-02-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Sabonete líquido
+ID: 884 | Nome: Avon Care Intimate Sabonete Liquido Intimo Fresh 250 ml | Marca: Avon | Estilo:
+Corpo e Banho
+Preco: R$ 24.99 | Estoque: 1 | Validade: 2029-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 49 | Nome: Care Intimate Sabonete Líquido Íntimo Active | Marca: Avon | Estilo: Corpo e Ban
+ho
+Preco: R$ 13.99 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 50 | Nome: Care Intimate Sabonete Líquido Íntimo Gentle 250ml | Marca: Avon | Estilo: Corpo
+e Banho
+Preco: R$ 13.99 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 51 | Nome: Care Intimate Sabonete Líquido Íntimo Hydrating | Marca: Avon | Estilo: Corpo e
+Banho
+Preco: R$ 16.99 | Estoque: 2 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 52 | Nome: Care Intimate Sabonte Líquido Intimo Fresh | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 37.99 | Estoque: 1 | Validade: 2028-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 575 | Nome: Clearskin Sabonete Facial Esfoliante 50g | Marca: Avon | Estilo: Make
+Preco: R$ 27.99 | Estoque: 0 | Validade: 2028-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 887 | Nome: Renew Sabonete Gel Limpeza 125g | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 42.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 197 | Nome: Refil Sabonete Líquido Para Mãos Castanha Ekos 250ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 48.9 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 52 of 56 --
+
+ID: 198 | Nome: Refil Sabonete para as Mãos | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 44.9 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 204 | Nome: Refil sabonete líquido MMBB 200ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 208 | Nome: Sabonete Cremoso para as Mãos | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 60.4 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 520 | Nome: Sabonete Líquido Mamãe e Bebê Flor de Laranjeira 100ml | Marca: Natura | Estilo
+: Corpo e Banho
+Preco: R$ 26.9 | Estoque: 0 | Validade: 2027-11-12 | Vendido: Sim | Qtd vendida: 1
+ID: 524 | Nome: Sabonete em Espuma para o Corpo Tododia Macadâmia 150 ml | Marca: Natura | Esti
+lo: Corpo e Banho
+Preco: R$ 55.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 227 | Nome: Sabonete em gel corpo Humor 100g | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 45.9 | Estoque: 1 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 787 | Nome: Shower Gel 5 em 1 Cabelo e Corpo Men 205g | Marca: O Boticário | Estilo: Corpo
+e Banho
+Preco: R$ 37.9 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Shampoo
+ID: 207 | Nome: SIAGE SHAMP REGEN POS QUIMICA V3 250ml | Marca: Eudora | Estilo: Corpo e Banho
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 347 | Nome: Shampoo Siàge Cauterização dos Lisos 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Sim | Qtd vendida: 1
+ID: 239 | Nome: Shampoo Siàge Glow Expert 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 1 | Validade: 2027-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 240 | Nome: Shampoo Siàge Liso Intenso 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 241 | Nome: Shampoo Siàge Men Limpeza Purificante 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 39.99 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 536 | Nome: Shampoo Siàge Men Limpeza Purificante 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 1 | Validade: 2028-12-12 | Vendido: Nao | Qtd vendida: 0
+ID: 777 | Nome: Shampoo Siàge Nutri Acid.Complex 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2028-07-12 | Vendido: Sim | Qtd vendida: 1
+ID: 242 | Nome: Shampoo Siàge Nutri Rosé 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 42.9 | Estoque: 1 | Validade: 2028-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 291 | Nome: Shampoo Siàge Nutri Rosé 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 243 | Nome: Shampoo Siàge Pro Cronology 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 244 | Nome: Shampoo Siàge Reconstrói Os Fios 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 42.9 | Estoque: 0 | Validade: 2028-01-12 | Vendido: Nao | Qtd vendida: 0
+
+-- 53 of 56 --
+
+ID: 247 | Nome: Siage shampoo pro cornology 250ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 1 | Validade: 2027-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 343 | Nome: Siàge Shampoo Hair-Plastia 250Ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2028-10-12 | Vendido: Sim | Qtd vendida: 1
+ID: 648 | Nome: Siàge Shampoo Hair-Plastia 250Ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2029-03-12 | Vendido: Sim | Qtd vendida: 1
+ID: 779 | Nome: Siàge Shampoo Hair-Plastia 250Ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 47.99 | Estoque: 0 | Validade: 2029-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 328 | Nome: Sensi Men Anticaspa 200ml | Marca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 25.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+ID: 234 | Nome: Shampoo 3 Em 1 Masculino Portiolli Gold 60ml - Celso | Marca: Jequiti | Estilo:
+Cabelo
+Preco: R$ 26.0 | Estoque: 1 | Validade: 2025-09-29 | Vendido: Nao | Qtd vendida: 0
+ID: 279 | Nome: Shampoo Hello Kitty Estilosa 100ml | Marca: Jequiti | Estilo: Cabelo
+Preco: R$ 24.9 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 237 | Nome: Shampoo Jequiti Sensi Men 2 em 1, 200ml | Marca: Jequiti | Estilo: Corpo e Banh
+o
+Preco: R$ 25.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 490 | Nome: LUMINA SHAMPOO MATIZACAO E RESTAURAÇÃO 300ml | Marca: Natura | Estilo: Cabelo
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+ID: 859 | Nome: Refil Shampoo Lumina Matizador para Matização e Restauração 300 ml | Marca: Nat
+ura | Estilo: Cabelo
+Preco: R$ 38.9 | Estoque: 1 | Validade: 2029-04-12 | Vendido: Nao | Qtd vendida: 0
+ID: 199 | Nome: Refil Shampoo Lumina Matizador para Matização e Restauração 300ml | Marca: Natu
+ra | Estilo: Cabelo
+Preco: R$ 28.9 | Estoque: 0 | Validade: 2028-06-12 | Vendido: Sim | Qtd vendida: 1
+ID: 235 | Nome: Shampoo Homem sagaz barba e corpo | Marca: Natura | Estilo: Masculinos
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-11-12 | Vendido: Nao | Qtd vendida: 0
+ID: 236 | Nome: Shampoo Humor a Rigor 100ml | Marca: Natura | Estilo: Cabelo
+Preco: R$ 22.0 | Estoque: 0 | Validade: 2026-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 238 | Nome: Shampoo MMBB | Marca: Natura | Estilo: Cabelo
+Preco: R$ 28.0 | Estoque: 0 | Validade: 2026-09-12 | Vendido: Nao | Qtd vendida: 0
+ID: 379 | Nome: Shampoo Nutritivo Tododia Pêssego e Amêndoa 300 ml | Marca: Natura | Estilo: Ca
+belo
+Preco: R$ 35.9 | Estoque: 2 | Validade: 2028-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 5 | Nome: Shampoo homem 2 em 1 300ml | Marca: Natura | Estilo: Cabelo
+Preco: R$ 31.0 | Estoque: 0 | Validade: 2026-08-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Shampoo 2 em 1
+ID: 546 | Nome: Shampoo Sensi Men 2 em 1 | Marca: Jequiti | Estilo: Cabelo
+Preco: R$ 27.9 | Estoque: 1 | Validade: 2028-03-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 54 of 56 --
+
+ID: 547 | Nome: Shampoo Sensi Men 2 em 1 | Marca: Jequiti | Estilo: Cabelo
+Preco: R$ 27.9 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+ID: 548 | Nome: Shampoo Sensi Men Anticaspa, 200 ml | Marca: Jequiti | Estilo: Cabelo
+Preco: R$ 29.9 | Estoque: 0 | Validade: 2028-08-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Shampoo e Condicionador
+ID: 325 | Nome: Avengers 2 em 1 Shampoo e Condicionador | Marca: Avon | Estilo: Cabelo
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2028-06-12 | Vendido: Nao | Qtd vendida: 0
+ID: 315 | Nome: Shampoo 2 em 1 Stitch | Marca: Avon | Estilo: Cabelo
+Preco: R$ 19.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+ID: 622 | Nome: Shampoo E Condicionador 2 em 1 Men 250ml | Marca: O Boticário | Estilo: Cabelo
+Preco: R$ 42.9 | Estoque: 0 | Validade: 2028-12-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Sobrancelhas
+ID: 323 | Nome: Color Tren Lápis de Sobrancelhas Medio | Marca: Avon | Estilo: Make
+Preco: R$ 21.99 | Estoque: 1 | Validade: 2028-02-12 | Vendido: Nao | Qtd vendida: 0
+ID: 883 | Nome: Lapis de Sobrancelhas Color Trend Médio | Marca: Avon | Estilo: Make
+Preco: R$ 16.99 | Estoque: 1 | Validade: 2028-08-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Tratamento para cabelos
+ID: 356 | Nome: Leave-In Siàge Resgate Imediato 100ml | Marca: Eudora | Estilo: Cabelo
+Preco: R$ 59.99 | Estoque: 0 | Validade: 2028-05-12 | Vendido: Sim | Qtd vendida: 1
+ID: 535 | Nome: Leave-in Capilar Siàge Cauterização dos Lisos 100ml | Marca: Eudora | Estilo: C
+abelo
+Preco: R$ 52.9 | Estoque: 1 | Validade: 2028-05-12 | Vendido: Nao | Qtd vendida: 0
+ID: 763 | Nome: Leave-in Capilar Siàge Cauterização dos Lisos 100ml | Marca: Eudora | Estilo: C
+abelo
+Preco: R$ 52.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+ID: 619 | Nome: Máscara Balm Preenchedora Siàge Resgate Imediato 250g | Marca: Eudora | Estilo:
+Cabelo
+Preco: R$ 69.99 | Estoque: 0 | Validade: 2028-04-12 | Vendido: Sim | Qtd vendida: 1
+Tipo: Tratamento para o rosto
+ID: 542 | Nome: Creme Facial Antissinais 5 em 1 - Avon Care 100g | Marca: Avon | Estilo: Make
+Preco: R$ 27.99 | Estoque: 0 | Validade: 2029-01-12 | Vendido: Sim | Qtd vendida: 2
+Tipo: Tônico facial
+ID: 885 | Nome: Tônico Facial Avon Renew Vita C 90ml | Marca: Avon | Estilo: Skincare
+Preco: R$ 47.9 | Estoque: 1 | Validade: 2029-01-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Unhas
+ID: 640 | Nome: ESMALTE COLOR TREND PRATA GLITTER | Marca: Avon | Estilo: Corpo e Banho
+Preco: R$ 4.0 | Estoque: 0 | Validade: 2026-02-12 | Vendido: Sim | Qtd vendida: 1
+ID: 163 | Nome: Mira-Cuticle Complexo Redutor De Cutículas Color Trend | Marca: Avon | Estilo:
+
+-- 55 of 56 --
+
+Corpo e Banho
+Preco: R$ 14.99 | Estoque: 1 | Validade: 2028-07-12 | Vendido: Nao | Qtd vendida: 0
+Tipo: Óleo corporal
+ID: 329 | Nome: Oleo Bifásico Flor de Amêndoa 200ml | Marca: Jequiti | Estilo: Corpo e Banho
+Preco: R$ 39.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 285 | Nome: Oleo Corporal bifásico Amendoas e frutas vermelhas 200ml | Marca: Jequiti | Est
+ilo: Corpo e Banho
+Preco: R$ 36.9 | Estoque: 0 | Validade: 2026-10-12 | Vendido: Nao | Qtd vendida: 0
+ID: 248 | Nome: Sève Pimenta Rosa Óleo Corporal 100ml | Marca: Natura | Estilo: Corpo e Banho
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2027-09-12 | Vendido: Sim | Qtd vendida: 1
+ID: 266 | Nome: Óleo Bifásico Macadâmia Corporal Tododia Natura 120ml | Marca: Natura | Estilo:
+Corpo e Banho
+Preco: R$ 34.9 | Estoque: 0 | Validade: 2026-11-02 | Vendido: Sim | Qtd vendida: 1
+ID: 267 | Nome: Óleo Corporal Séve Amêndoas Doces 100ml | Marca: Natura | Estilo: Corpo e Banh
+o
+Preco: R$ 52.9 | Estoque: 0 | Validade: 2027-06-12 | Vendido: Sim | Qtd vendida: 1
+
+-- 56 of 56 --
+
