@@ -25,7 +25,11 @@ if (process.env.VERCEL && !fs.existsSync(dbPath) && fs.existsSync(bundledDbPath)
 }
 
 const db = new DatabaseSync(dbPath);
-db.exec("PRAGMA journal_mode = WAL;");
+if (process.env.VERCEL) {
+  db.exec("PRAGMA journal_mode = DELETE;");
+} else {
+  db.exec("PRAGMA journal_mode = WAL;");
+}
 db.exec("PRAGMA foreign_keys = ON;");
 
 const app = express();
