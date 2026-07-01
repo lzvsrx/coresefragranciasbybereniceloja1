@@ -16,6 +16,16 @@ function todayIso() {
   return new Date().toISOString().slice(0, 10);
 }
 
+function responseErrorMessage(data) {
+  if (data?.error?.message === "Protected deployment") {
+    return "Este deploy do Vercel esta protegido. Desative a protecao do deploy no Vercel ou use a URL publica de producao.";
+  }
+  if (typeof data?.error === "string") return data.error;
+  if (typeof data?.error?.message === "string") return data.error.message;
+  if (typeof data === "string" && data.trim()) return "A API nao respondeu em JSON. Verifique a configuracao do deploy no Vercel.";
+  return "Erro na requisicao.";
+}
+
 function useAuth() {
   const [auth, setAuth] = useState(() => {
     try {
@@ -91,7 +101,7 @@ function request(auth, url, options = {}) {
       window.location.reload();
       throw new Error("Sessao expirada. Entre novamente.");
     }
-    if (!res.ok) throw new Error(data?.error || "Erro na requisicao.");
+    if (!res.ok) throw new Error(responseErrorMessage(data));
     return data;
   });
 }
