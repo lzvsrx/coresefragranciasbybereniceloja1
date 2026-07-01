@@ -3,6 +3,7 @@ import express from "express";
 import multer from "multer";
 import bcrypt from "bcryptjs";
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { randomUUID } from "node:crypto";
@@ -12,11 +13,16 @@ import { isGithubDbSyncEnabled, scheduleDatabaseSync } from "./gitSync.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const dataDir = path.join(__dirname, "data");
-const dbPath = process.env.DB_PATH || path.join(dataDir, "store.db");
+const bundledDbPath = path.join(dataDir, "store.db");
+const runtimeDbPath = process.env.VERCEL ? path.join(os.tmpdir(), "store.db") : bundledDbPath;
+const dbPath = process.env.DB_PATH || runtimeDbPath;
 const storeWhatsapp = "553598213049";
 const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 40 * 1024 * 1024 } });
 
 fs.mkdirSync(dataDir, { recursive: true });
+if (process.env.VERCEL && !fs.existsSync(dbPath) && fs.existsSync(bundledDbPath)) {
+  fs.copyFileSync(bundledDbPath, dbPath);
+}
 
 const db = new DatabaseSync(dbPath);
 db.exec("PRAGMA journal_mode = WAL;");
@@ -542,7 +548,7 @@ app.get("/api/export/products.csv", requireAuth, requireStaff, (_req, res) => {
   res.type("text/csv").send(csv);
 });
 
-if (process.env.NODE_ENV === "production") {
+if (process.env.NODE_ENV === "production" && !process.env.VERCEL) {
   const dist = path.join(rootDir, "dist");
   app.use(express.static(dist));
   app.use((req, res, next) => {
@@ -552,9 +558,13 @@ if (process.env.NODE_ENV === "production") {
 }
 
 const port = Number(process.env.PORT || 3001);
-app.listen(port, () => {
-  console.log(`API Cores & Fragrancias rodando em http://localhost:${port}`);
-  if (isGithubDbSyncEnabled()) {
-    console.log("Sincronizacao automatica do banco com GitHub ativada.");
-  }
-});
+if (!process.env.VERCEL) {
+  app.listen(port, () => {
+    console.log(`API Cores & Fragrancias rodando em http://localhost:${port}`);
+    if (isGithubDbSyncEnabled()) {
+      console.log("Sincronizacao automatica do banco com GitHub ativada.");
+    }
+  });
+}
+
+export default app;
