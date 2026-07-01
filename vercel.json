@@ -1,19 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "vite.config.js",
-      "use": "@vercel/static-build",
-      "config": {
-        "buildCommand": "npm run build",
-        "outputDir": "dist"
-      }
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",
