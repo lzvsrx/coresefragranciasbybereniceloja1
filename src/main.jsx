@@ -75,17 +75,18 @@ class ErrorBoundary extends React.Component {
 }
 
 function request(auth, url, options = {}) {
+  const { reloadOnUnauthorized = true, ...fetchOptions } = options;
   return fetch(`${API}${url}`, {
-    ...options,
+    ...fetchOptions,
     headers: {
-      ...(options.body instanceof FormData ? {} : { "Content-Type": "application/json" }),
+      ...(fetchOptions.body instanceof FormData ? {} : { "Content-Type": "application/json" }),
       ...(auth?.token ? { Authorization: `Bearer ${auth.token}` } : {}),
-      ...(options.headers || {})
+      ...(fetchOptions.headers || {})
     }
   }).then(async (res) => {
     const isJson = res.headers.get("content-type")?.includes("application/json");
     const data = isJson ? await res.json() : await res.text();
-    if (res.status === 401) {
+    if (res.status === 401 && reloadOnUnauthorized) {
       localStorage.removeItem("cf-auth");
       window.location.reload();
       throw new Error("Sessao expirada. Entre novamente.");
@@ -103,7 +104,11 @@ function Login({ onLogin }) {
     e.preventDefault();
     setError("");
     try {
-      const data = await request(null, "/api/auth/login", { method: "POST", body: JSON.stringify(form) });
+      const data = await request(null, "/api/auth/login", {
+        method: "POST",
+        body: JSON.stringify(form),
+        reloadOnUnauthorized: false
+      });
       onLogin(data);
     } catch (err) {
       setError(err.message);
