@@ -29,7 +29,11 @@
   ],
   "functions": {
     "api/index.js": {
-      "includeFiles": "server/data/store.db"
+      "includeFiles": "server/data/store.db",
+      "memory": 1024,
+      "maxDuration": 10
     }
-  }
+  },
+  "installCommand": "npm install --production",
+  "buildCommand": "npm run build"
 }
